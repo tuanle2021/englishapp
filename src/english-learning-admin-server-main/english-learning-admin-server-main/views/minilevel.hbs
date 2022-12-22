@@ -1,0 +1,44 @@
+<h1>{{title}}</h1>
+<a href="{{webUrl}}">Home</a>
+<h3>Minilevel APIs</h3>
+<h3>Create a Minilevel</h3>
+<pre>
+  POST
+  {{webUrl}}/minilevel
+
+  example body:
+  {
+    "name": "Level 1"
+    "category": "625bd8b9bb72620948fea625"
+  }
+</pre>
+<h3>Read all Minilevels</h3>
+<pre>
+  GET
+  {{webUrl}}/minilevel/all
+</pre>
+<h3>Read a Minilevel</h3>
+<pre>
+  GET
+  {{webUrl}}/minilevel/:id
+</pre>
+<h3>Update Minilevel</h3>
+<pre>
+  POST
+  {{webUrl}}/minilevel/update/:id
+
+  example body:
+  {
+    "name": "Level 2"
+  }
+</pre>
+<h3>Delete a Minilevel</h3>
+<pre>
+  GET
+  {{webUrl}}/minilevel/delete/:id
+</pre>
+<h3>Delete all Minilevels</h3>
+<pre>
+  GET
+  {{webUrl}}/minilevel/delete/all
+</pre>

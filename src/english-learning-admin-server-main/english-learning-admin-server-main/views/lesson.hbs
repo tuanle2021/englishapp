@@ -1,0 +1,46 @@
+<h1>{{title}}</h1>
+<a href="{{webUrl}}">Home</a>
+<h3>Lesson APIs</h3>
+<h3>Create a lesson</h3>
+<pre>
+  POST
+  {{webUrl}}/lesson
+
+  example body:
+  {
+    "name": "Lesson 1"
+    "miniLevel": "625bda29b33901fd60c7046a"
+  }
+</pre>
+<h3>Read all lessons</h3>
+<pre>
+  GET
+  {{webUrl}}/lesson/all
+
+</pre>
+<h3>Read a lesson</h3>
+<pre>
+  GET
+  {{webUrl}}/lesson/:id
+
+</pre>
+<h3>Update lesson</h3>
+<pre>
+  POST
+  {{webUrl}}/lesson/update/:id
+
+  example body:
+  {
+    "name": "Lesson 2"
+  }
+</pre>
+<h3>Delete a lesson</h3>
+<pre>
+  GET
+  {{webUrl}}/lesson/delete/:id
+</pre>
+<h3>Delete all lessons</h3>
+<pre>
+  GET
+  {{webUrl}}/lesson/delete/all
+</pre>

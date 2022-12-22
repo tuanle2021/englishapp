@@ -1,0 +1,9787 @@
+[{
+  "_id": {
+    "$oid": "62891d6a51339e2b5e9a215d"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62891d6951339e2b5e9a2158"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653153130138"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653153130138"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289931e4dcca1074a5661a7"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289931e4dcca1074a5661a2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653183262599"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653183262599"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289936a4dcca1074a5661cc"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289936a4dcca1074a5661c7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653183338834"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653183338834"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628995a04dcca1074a566286"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "628995a04dcca1074a566281"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653183904462"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653183904462"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628996a29606ac423b9da3c6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "628996a29606ac423b9da3c0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184162548"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184162548"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628998379606ac423b9da418"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "628998379606ac423b9da413"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184567951"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184567951"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628998c69606ac423b9da467"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "628998c69606ac423b9da462"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184710521"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184710521"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628999089606ac423b9da486"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "628999089606ac423b9da481"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184776530"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184776530"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628999479606ac423b9da4a0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "628999479606ac423b9da49b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184839985"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184839985"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628999a59606ac423b9da4c0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "628999a59606ac423b9da4ba"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184933317"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184933317"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899cf19606ac423b9da634"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62899cf19606ac423b9da62f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653185777325"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653185777325"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899d449606ac423b9da65e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62899d439606ac423b9da659"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653185860030"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653185860030"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899d8e9606ac423b9da67a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62899d8e9606ac423b9da675"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653185934622"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653185934622"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899dda9606ac423b9da69a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62899dd99606ac423b9da694"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186010125"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186010125"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899e529606ac423b9da6c9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62899e529606ac423b9da6c4"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186130956"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186130956"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899ee69606ac423b9da6eb"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62899ee69606ac423b9da6e6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186278512"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186278512"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899f319606ac423b9da705"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62899f319606ac423b9da700"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186353832"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186353832"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899f459606ac423b9da71f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62899f459606ac423b9da71a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186373924"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186373924"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899f799606ac423b9da74a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62899f799606ac423b9da745"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186425390"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186425390"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899f9f9606ac423b9da76a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62899f9e9606ac423b9da764"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186463091"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186463091"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a07e9606ac423b9da78c"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289a07e9606ac423b9da787"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186686678"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186686678"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a0c39606ac423b9da7a6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289a0c39606ac423b9da7a1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186755649"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186755649"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a0df9606ac423b9da7d1"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289a0df9606ac423b9da7cc"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186783447"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186783447"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a1079606ac423b9da7eb"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289a1079606ac423b9da7e6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186823527"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186823527"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a1999606ac423b9da82e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289a1999606ac423b9da828"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186969768"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186969768"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a2ad9606ac423b9da861"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289a2ad9606ac423b9da85c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653187245259"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653187245259"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a3079606ac423b9da87b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289a3079606ac423b9da876"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653187335225"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653187335225"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289ab27415292f0ec9bc09b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289ab27415292f0ec9bc094"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189415992"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189415992"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289abbb415292f0ec9bc0ed"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289abbb415292f0ec9bc0e6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189563259"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189563259"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289abfd415292f0ec9bc11d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289abfd415292f0ec9bc115"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189629282"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189629282"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289ac9a415292f0ec9bc14d"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289ac99415292f0ec9bc146"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189786059"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189786059"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289acda415292f0ec9bc175"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289acda415292f0ec9bc16e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189850979"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189850979"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289acf4415292f0ec9bc19d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289acf4415292f0ec9bc196"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189876242"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189876242"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289ad1f415292f0ec9bc1c5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289ad1f415292f0ec9bc1be"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189919465"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189919465"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289ad55415292f0ec9bc20f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289ad55415292f0ec9bc207"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189973687"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189973687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289cfda415292f0ec9bc276"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289cfda415292f0ec9bc26f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198810251"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198810251"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d010415292f0ec9bc29e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289d010415292f0ec9bc297"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198864804"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198864804"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d01f415292f0ec9bc2c6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289d01e415292f0ec9bc2bf"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198879223"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198879223"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d045415292f0ec9bc30b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289d045415292f0ec9bc304"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198917650"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198917650"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d06c415292f0ec9bc33b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289d06c415292f0ec9bc333"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198956502"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198956502"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d0db415292f0ec9bc394"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289d0db415292f0ec9bc38d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199067264"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199067264"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d10e415292f0ec9bc3bc"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289d10d415292f0ec9bc3b5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199118145"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199118145"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d11d415292f0ec9bc3e4"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289d11c415292f0ec9bc3dd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199133081"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199133081"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d13e415292f0ec9bc40c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289d13e415292f0ec9bc405"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199166937"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199166937"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d1e0415292f0ec9bc456"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289d1df415292f0ec9bc44e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199328017"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199328017"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d25f415292f0ec9bc487"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289d25f415292f0ec9bc480"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199455535"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199455535"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d2b3415292f0ec9bc4af"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289d2b2415292f0ec9bc4a8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199539153"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199539153"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d2c9415292f0ec9bc4d8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289d2c9415292f0ec9bc4d1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199561407"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199561407"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d2ef415292f0ec9bc508"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289d2ef415292f0ec9bc500"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199599863"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199599863"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d316415292f0ec9bc530"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289d316415292f0ec9bc529"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199638963"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199638963"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d380415292f0ec9bc562"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289d380415292f0ec9bc55b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199744744"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199744744"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d391415292f0ec9bc58a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289d391415292f0ec9bc583"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199761976"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199761976"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d3cf415292f0ec9bc5b2"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289d3ce415292f0ec9bc5ab"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199823168"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199823168"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d404415292f0ec9bc5dd"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289d404415292f0ec9bc5d5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199876753"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199876753"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d433415292f0ec9bc605"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289d433415292f0ec9bc5fe"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199923537"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199923537"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d4cb415292f0ec9bc642"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289d4ca415292f0ec9bc63b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200075039"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200075039"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d4fc415292f0ec9bc66a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289d4fc415292f0ec9bc663"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200124386"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200124386"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d544415292f0ec9bc6ac"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289d544415292f0ec9bc6a5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200196581"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200196581"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d5b1415292f0ec9bc725"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289d5b1415292f0ec9bc71d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200305587"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200305587"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d5dc415292f0ec9bc74d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289d5dc415292f0ec9bc746"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200348972"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200348972"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d67a415292f0ec9bc77e"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6289d67a415292f0ec9bc777"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200506275"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200506275"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d6d4415292f0ec9bc7c8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289d6d4415292f0ec9bc7bc"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200596365"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200596365"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d72f415292f0ec9bc80f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "6289d72f415292f0ec9bc808"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200687929"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200687929"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d745415292f0ec9bc837"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6289d745415292f0ec9bc830"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200709994"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200709994"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d772415292f0ec9bc860"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6289d772415292f0ec9bc858"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200754304"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200754304"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d796415292f0ec9bc888"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6289d796415292f0ec9bc881"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200790379"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200790379"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629746e4ec3daf580812a10b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "629746e4ec3daf580812a104"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654081252734"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654081252734"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297476eec3daf580812a138"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6297476eec3daf580812a131"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654081390691"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654081390691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62974af0ec3daf580812a433"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62974aefec3daf580812a42c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654082288174"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654082288174"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62974b34ec3daf580812a45b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62974b34ec3daf580812a454"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654082356495"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654082356495"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62974b86ec3daf580812a494"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62974b86ec3daf580812a48c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654082438322"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654082438322"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297752dec3daf580812a4c7"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "6297752dec3daf580812a4c0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093101683"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093101683"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977569ec3daf580812a4f0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62977569ec3daf580812a4e9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093161614"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093161614"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629775d4ec3daf580812a5da"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "629775d3ec3daf580812a5d3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093268148"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093268148"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977603ec3daf580812a603"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62977603ec3daf580812a5fc"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093315512"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093315512"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297763cec3daf580812a63a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "6297763bec3daf580812a632"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093372039"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093372039"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297791aec3daf580812a66c"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62977919ec3daf580812a665"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094106113"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094106113"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977957ec3daf580812a695"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62977956ec3daf580812a68e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094167180"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094167180"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297796dec3daf580812a6be"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "6297796dec3daf580812a6b7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094189757"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094189757"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297799dec3daf580812a6e6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "6297799dec3daf580812a6df"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094237659"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094237659"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629779c0ec3daf580812a711"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "629779c0ec3daf580812a709"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094272915"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094272915"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977a4aec3daf580812a745"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62977a4aec3daf580812a73e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094410945"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094410945"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977ae3ec3daf580812a76d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62977ae3ec3daf580812a766"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094563321"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094563321"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977b0cec3daf580812a795"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62977b0cec3daf580812a78e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094604298"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094604298"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977b33ec3daf580812a7bd"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62977b33ec3daf580812a7b6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094643619"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094643619"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977b82ec3daf580812a7ee"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62977b82ec3daf580812a7e6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094722978"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094722978"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977bd6ec3daf580812a81b"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62977bd5ec3daf580812a814"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094806257"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094806257"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977c14ec3daf580812a843"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62977c14ec3daf580812a83c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094868532"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094868532"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977c24ec3daf580812a86c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62977c23ec3daf580812a865"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094884012"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094884012"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977c5eec3daf580812a89d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62977c5dec3daf580812a895"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094942019"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094942019"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977c88ec3daf580812a8c5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62977c88ec3daf580812a8be"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094984376"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094984376"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977ce7ec3daf580812a8f2"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62977ce6ec3daf580812a8eb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095079100"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095079100"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977d1dec3daf580812a91a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62977d1dec3daf580812a913"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095133712"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095133712"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977d2aec3daf580812a942"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62977d2aec3daf580812a93b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095146595"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095146595"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977d57ec3daf580812a972"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62977d57ec3daf580812a96a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095191675"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095191675"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977d76ec3daf580812a99a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62977d75ec3daf580812a993"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095222104"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095222104"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977de1ec3daf580812a9cb"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62977de0ec3daf580812a9c4"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095329034"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095329034"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977e36ec3daf580812aa64"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62977e36ec3daf580812aa5d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095414364"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095414364"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977e49ec3daf580812aa8d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62977e49ec3daf580812aa86"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095433597"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095433597"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977e98ec3daf580812aabd"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62977e98ec3daf580812aab5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095512658"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095512658"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977ec1ec3daf580812aae5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62977ec1ec3daf580812aade"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095553469"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095553469"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16dda88e4f1334eb14a77"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a16dd988e4f1334eb14a70"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746586136"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746586136"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16e0288e4f1334eb14a9f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a16e0188e4f1334eb14a98"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746626036"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746626036"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16e1688e4f1334eb14ac7"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a16e1688e4f1334eb14ac0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746646856"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746646856"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16e5788e4f1334eb14af9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a16e5788e4f1334eb14af1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746711453"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746711453"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16e9a88e4f1334eb14b21"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a16e9a88e4f1334eb14b1a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746778840"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746778840"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fc897d9f02220765e9dc"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a1fc897d9f02220765e9d5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783113367"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783113367"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fcd77d9f02220765ea04"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a1fcd77d9f02220765e9fd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783191844"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783191844"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fcf17d9f02220765ea2c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a1fcf17d9f02220765ea25"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783217633"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783217633"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fd1e7d9f02220765ea5e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a1fd1e7d9f02220765ea56"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783262435"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783262435"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fd547d9f02220765ea86"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a1fd537d9f02220765ea7f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783316109"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783316109"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fdd57d9f02220765eac1"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a1fdd57d9f02220765eaba"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783445376"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783445376"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fe187d9f02220765eae9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a1fe177d9f02220765eae2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783512045"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783512045"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fe2c7d9f02220765eb11"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a1fe2b7d9f02220765eb0a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783532191"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783532191"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fe507d9f02220765eb39"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a1fe4f7d9f02220765eb32"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783568216"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783568216"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fe6e7d9f02220765eb64"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a1fe6e7d9f02220765eb5c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783598664"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783598664"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fec77d9f02220765ebd8"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a1fec77d9f02220765ebd1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783687547"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783687547"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fef07d9f02220765ec00"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a1fef07d9f02220765ebf9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783728526"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783728526"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fefc7d9f02220765ec28"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a1fefc7d9f02220765ec21"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783741000"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783741000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ff1d7d9f02220765ec51"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a1ff1d7d9f02220765ec4a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783773598"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783773598"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ff407d9f02220765ec89"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a1ff3f7d9f02220765ec81"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783808218"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783808218"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ff847d9f02220765ecb1"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a1ff837d9f02220765ecaa"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783876111"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783876111"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ffae7d9f02220765ecd9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a1ffae7d9f02220765ecd2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783918885"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783918885"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ffe17d9f02220765ed0a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a1ffe17d9f02220765ed02"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783969617"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783969617"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2000e7d9f02220765ed32"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a2000e7d9f02220765ed2b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784014814"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784014814"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a200217d9f02220765ed5b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a200207d9f02220765ed54"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784033175"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784033175"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2009e7d9f02220765ed90"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a2009d7d9f02220765ed89"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784158042"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784158042"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a200d77d9f02220765edb9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a200d67d9f02220765edb2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784215044"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784215044"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a201137d9f02220765ede1"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a201137d9f02220765edda"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784275950"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784275950"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a201337d9f02220765ee09"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a201337d9f02220765ee02"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784307684"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784307684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a201637d9f02220765ee3c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a201637d9f02220765ee34"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784355804"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784355804"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a201f57d9f02220765ee6a"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a201f57d9f02220765ee63"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784501431"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784501431"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a202067d9f02220765ee92"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a202067d9f02220765ee8b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784518866"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784518866"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a202307d9f02220765eeba"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a202307d9f02220765eeb3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784560627"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784560627"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2024f7d9f02220765eee2"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a2024f7d9f02220765eedb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784591445"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784591445"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2028e7d9f02220765ef1a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a2028e7d9f02220765ef12"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784654415"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784654415"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203247d9f02220765ef74"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a203247d9f02220765ef6d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784804471"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784804471"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203647d9f02220765ef9c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a203647d9f02220765ef95"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784868900"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784868900"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203717d9f02220765efc4"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a203707d9f02220765efbd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784881066"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784881066"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203d87d9f02220765eff5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a203d77d9f02220765efed"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784984013"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784984013"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203fa7d9f02220765f01d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a203fa7d9f02220765f016"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654785018235"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654785018235"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20a5a7d9f02220765f0ab"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a20a5a7d9f02220765f0a4"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786650994"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786650994"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20aa97d9f02220765f129"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a20aa97d9f02220765f122"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786729271"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786729271"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20ab67d9f02220765f151"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a20ab67d9f02220765f14a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786742884"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786742884"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20acf7d9f02220765f17a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a20acf7d9f02220765f172"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786767987"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786767987"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20aed7d9f02220765f1a2"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a20aed7d9f02220765f19b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786797635"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786797635"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20b2b7d9f02220765f1d1"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a20b2a7d9f02220765f1ca"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786859044"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786859044"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20bff7d9f02220765f284"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a20bff7d9f02220765f27d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787071969"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787071969"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20c0e7d9f02220765f2ac"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a20c0d7d9f02220765f2a5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787086125"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787086125"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20c237d9f02220765f2d5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a20c237d9f02220765f2cd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787107780"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787107780"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20c447d9f02220765f2fd"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a20c447d9f02220765f2f6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787140401"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787140401"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20c8d7d9f02220765f32f"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a20c8c7d9f02220765f328"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787213112"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787213112"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20cbb7d9f02220765f357"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a20cbb7d9f02220765f350"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787259913"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787259913"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20cd47d9f02220765f37f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a20cd47d9f02220765f378"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787284906"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787284906"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20ce97d9f02220765f3a8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a20ce97d9f02220765f3a0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787305493"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787305493"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20d0b7d9f02220765f3d0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a20d0a7d9f02220765f3c9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787339068"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787339068"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f197d9f02220765f4ec"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a20f197d9f02220765f4e5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787865625"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787865625"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f457d9f02220765f514"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a20f447d9f02220765f50d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787909098"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787909098"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f577d9f02220765f53c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a20f577d9f02220765f535"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787927777"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787927777"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f797d9f02220765f564"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a20f797d9f02220765f55d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787961334"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787961334"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f907d9f02220765f58d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a20f907d9f02220765f585"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787984804"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787984804"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20ff17d9f02220765f5bc"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a20ff17d9f02220765f5b5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788081973"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788081973"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2101c7d9f02220765f5e4"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a2101b7d9f02220765f5dd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788124221"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788124221"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2102a7d9f02220765f60c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a2102a7d9f02220765f605"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788138989"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788138989"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2104a7d9f02220765f634"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a2104a7d9f02220765f62d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788170519"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788170519"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a210647d9f02220765f65d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a210647d9f02220765f655"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788196604"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788196604"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2178f4a59a53340fa64c6"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a2178f4a59a53340fa64bf"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790031295"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790031295"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a217c34a59a53340fa64ef"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a217c34a59a53340fa64e8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790083685"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790083685"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a217d34a59a53340fa6517"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a217d34a59a53340fa6510"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790099730"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790099730"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a217ef4a59a53340fa653f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a217ef4a59a53340fa6538"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790127878"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790127878"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218044a59a53340fa6568"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a218044a59a53340fa6560"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790148961"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790148961"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218804a59a53340fa6596"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a218804a59a53340fa658f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790272961"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790272961"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218a54a59a53340fa65be"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a218a44a59a53340fa65b7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790309162"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790309162"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218c34a59a53340fa65e6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a218c34a59a53340fa65df"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790339779"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790339779"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218cf4a59a53340fa660e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a218cf4a59a53340fa6607"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790351401"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790351401"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218e04a59a53340fa6637"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a218e04a59a53340fa662f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790368848"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790368848"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22145b2058921d3746cd5"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a22145b2058921d3746cce"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792517388"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792517388"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2217ab2058921d3746cfd"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a2217ab2058921d3746cf6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792570753"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792570753"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2218eb2058921d3746d25"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a2218eb2058921d3746d1e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792590458"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792590458"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a221a9b2058921d3746d4d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a221a9b2058921d3746d46"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792617535"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792617535"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a221c0b2058921d3746d76"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a221c0b2058921d3746d6e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792640437"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792640437"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22221b2058921d3746da4"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a22221b2058921d3746d9d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792737380"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792737380"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22232b2058921d3746dcc"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a22232b2058921d3746dc5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792754695"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792754695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22265b2058921d3746df4"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a22265b2058921d3746ded"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792805484"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792805484"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22287b2058921d3746e1c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a22287b2058921d3746e15"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792839350"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792839350"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2229ab2058921d3746e45"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a2229ab2058921d3746e3d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792858747"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792858747"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a222eeb2058921d3746e77"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a222eeb2058921d3746e70"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792942557"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792942557"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22312b2058921d3746e9f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a22312b2058921d3746e98"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792978520"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792978520"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2232cb2058921d3746ec7"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a2232cb2058921d3746ec0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793004528"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793004528"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22337b2058921d3746eef"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a22337b2058921d3746ee8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793015792"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793015792"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2234ab2058921d3746f18"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a2234ab2058921d3746f10"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793034742"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793034742"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22399b2058921d3746f46"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a22399b2058921d3746f3f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793113655"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793113655"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a223bfb2058921d3746f6e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a223bfb2058921d3746f67"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793151861"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793151861"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a223d9b2058921d3746f97"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a223d8b2058921d3746f90"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793177180"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793177180"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a223e5b2058921d3746fbf"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a223e5b2058921d3746fb8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793189909"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793189909"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a223fcb2058921d3746fe9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a223fcb2058921d3746fe1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793212845"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793212845"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2243db2058921d3747017"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a2243db2058921d3747010"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793277295"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793277295"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2246bb2058921d374703f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a2246bb2058921d3747038"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793323304"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793323304"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2248db2058921d3747068"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a2248db2058921d3747061"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793357990"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793357990"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a224adb2058921d3747090"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a224adb2058921d3747089"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793389613"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793389613"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a224c2b2058921d37470b9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a224c2b2058921d37470b1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793410454"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793410454"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22bbdb2058921d3747127"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a22bbcb2058921d3747120"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795197072"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795197072"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22be9b2058921d374714f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a22be9b2058921d3747148"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795241756"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795241756"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22bf9b2058921d3747177"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a22bf9b2058921d3747170"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795257872"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795257872"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22c1bb2058921d374719f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a22c1ab2058921d3747198"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795291084"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795291084"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22c2cb2058921d37471c8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a22c2cb2058921d37471c0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795308503"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795308503"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22c71b2058921d37471f6"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a22c71b2058921d37471ef"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795377555"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795377555"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22c98b2058921d374721e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a22c98b2058921d3747217"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795416476"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795416476"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22cb5b2058921d3747246"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a22cb4b2058921d374723f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795445100"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795445100"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22d0cb2058921d374726e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a22d0cb2058921d3747267"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795532412"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795532412"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22d20b2058921d3747297"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a22d1fb2058921d374728f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795552074"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795552074"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a23062b2058921d37473b4"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a23061b2058921d37473ac"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796386191"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796386191"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a230a0b2058921d37473df"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a230a0b2058921d37473d7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796448469"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796448469"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a230b2b2058921d374740b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a230b2b2058921d3747403"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796466861"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796466861"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a230e2b2058921d3747438"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a230e1b2058921d3747430"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796514159"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796514159"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a230f7b2058921d3747467"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a230f7b2058921d374745e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796535206"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796535206"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a23183b2058921d37474f6"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a23183b2058921d37474ef"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796675442"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796675442"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a231a8b2058921d3747523"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a231a8b2058921d374751c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796712972"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796712972"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a231b9b2058921d3747550"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a231b9b2058921d3747549"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796729466"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796729466"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a231deb2058921d374757d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a231ddb2058921d3747576"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796766145"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796766145"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a231f4b2058921d37475ab"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a231f4b2058921d37475a3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796788809"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796788809"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a449e463fedf08b57cd407"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a449e363fedf08b57cd400"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654933988210"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654933988210"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44a4363fedf08b57cd434"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a44a4363fedf08b57cd42d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934083902"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934083902"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44a5763fedf08b57cd461"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a44a5763fedf08b57cd45a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934103449"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934103449"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44a8d63fedf08b57cd48e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a44a8d63fedf08b57cd487"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934157909"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934157909"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44b3e63fedf08b57cd4cb"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a44b3d63fedf08b57cd4c3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934334103"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934334103"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44b9363fedf08b57cd4fe"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a44b9363fedf08b57cd4f7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934419931"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934419931"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44bc463fedf08b57cd52b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a44bc463fedf08b57cd524"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934468342"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934468342"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44bd363fedf08b57cd558"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a44bd363fedf08b57cd551"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934483824"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934483824"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44bf763fedf08b57cd585"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a44bf763fedf08b57cd57e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934519942"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934519942"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44c0a63fedf08b57cd5b3"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a44c0a63fedf08b57cd5ab"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934538767"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934538767"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a457c4a99c39206b6330d0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a457c3a99c39206b6330c9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937540032"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937540032"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45852a99c39206b633126"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a45852a99c39206b63311f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937682439"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937682439"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45872a99c39206b633153"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a45871a99c39206b63314c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937714085"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937714085"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a458bda99c39206b63318b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a458bca99c39206b633184"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937789197"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937789197"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4593aa99c39206b6331b9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a4593aa99c39206b6331b1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937914873"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937914873"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a459b4a99c39206b6331f0"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a459b4a99c39206b6331e9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938036535"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938036535"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a459e7a99c39206b63321d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a459e7a99c39206b633216"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938087482"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938087482"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a459fba99c39206b63324a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a459fba99c39206b633243"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938107212"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938107212"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45a27a99c39206b633277"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a45a26a99c39206b633270"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938151171"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938151171"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45a7ca99c39206b6332b5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a45a7ca99c39206b6332ad"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938236307"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938236307"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45b0aa99c39206b633308"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a45b0aa99c39206b633301"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938378921"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938378921"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45b49a99c39206b633335"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a45b49a99c39206b63332e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938441661"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938441661"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45b5fa99c39206b633362"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a45b5ea99c39206b63335b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938463111"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938463111"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45b87a99c39206b63338f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a45b87a99c39206b633388"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938503597"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938503597"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45baaa99c39206b6333bd"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a45baaa99c39206b6333b5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938538291"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938538291"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45c1ca99c39206b6333f0"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a45c1ca99c39206b6333e9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938652463"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938652463"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45c4ea99c39206b63341d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a45c4ea99c39206b633416"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938702973"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938702973"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45c60a99c39206b63344a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a45c60a99c39206b633443"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938720349"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938720349"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45c80a99c39206b633477"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a45c80a99c39206b633470"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938752625"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938752625"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45ca0a99c39206b6334a5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a45ca0a99c39206b63349d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938784647"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938784647"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45ceea99c39206b6334d8"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a45ceea99c39206b6334d1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938862524"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938862524"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45d2fa99c39206b633505"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a45d2fa99c39206b6334fe"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938927999"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938927999"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45d41a99c39206b633532"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a45d41a99c39206b63352b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938945396"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938945396"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45d68a99c39206b63355f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a45d68a99c39206b633558"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938984725"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938984725"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45d91a99c39206b63358d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a45d91a99c39206b633585"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939025859"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939025859"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45de9a99c39206b6335c0"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a45de9a99c39206b6335b9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939113284"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939113284"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45e1ca99c39206b6335ed"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a45e1ca99c39206b6335e6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939164888"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939164888"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45e35a99c39206b63361b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a45e35a99c39206b633614"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939189452"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939189452"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45e67a99c39206b633648"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a45e67a99c39206b633641"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939239236"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939239236"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45e8fa99c39206b633676"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a45e8fa99c39206b63366e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939279556"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939279556"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f1fa99c39206b63370b"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a45f1fa99c39206b633704"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939423521"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939423521"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f4aa99c39206b633738"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a45f4aa99c39206b633731"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939466885"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939466885"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f5ca99c39206b633765"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a45f5ca99c39206b63375e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939484529"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939484529"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f7ca99c39206b633792"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a45f7ca99c39206b63378b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939516381"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939516381"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f95a99c39206b6337c0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a45f95a99c39206b6337b8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939541812"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939541812"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45fe6a99c39206b6337f3"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a45fe5a99c39206b6337ec"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939622107"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939622107"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46033a99c39206b633857"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46033a99c39206b633850"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939699948"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939699948"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46048a99c39206b633884"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46048a99c39206b63387d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939720950"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939720950"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4606fa99c39206b6338b1"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a4606fa99c39206b6338aa"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939759569"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939759569"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46085a99c39206b6338df"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46085a99c39206b6338d7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939781784"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939781784"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a460fea99c39206b633912"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a460fea99c39206b63390b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939902370"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939902370"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46128a99c39206b63393f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46128a99c39206b633938"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939944902"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939944902"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46137a99c39206b63396c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46137a99c39206b633965"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939959932"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939959932"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46159a99c39206b633999"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46159a99c39206b633992"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939993600"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939993600"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46173a99c39206b6339c7"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46173a99c39206b6339bf"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940019430"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940019430"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a463dba99c39206b633a02"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a463daa99c39206b6339fb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940635021"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940635021"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46412a99c39206b633a2f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46412a99c39206b633a28"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940690914"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940690914"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4641fa99c39206b633a5c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a4641fa99c39206b633a55"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940703964"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940703964"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4643fa99c39206b633a89"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a4643ea99c39206b633a82"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940735227"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940735227"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46459a99c39206b633ab7"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46458a99c39206b633aaf"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940761073"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940761073"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46511a99c39206b633aea"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46511a99c39206b633ae3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940945531"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940945531"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4653da99c39206b633b17"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a4653da99c39206b633b10"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940989417"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940989417"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46583a99c39206b633b44"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46582a99c39206b633b3d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941059189"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941059189"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a465a1a99c39206b633b71"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a465a1a99c39206b633b6a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941089421"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941089421"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a465c1a99c39206b633b9f"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a465c1a99c39206b633b97"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941121879"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941121879"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46625a99c39206b633bd2"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46625a99c39206b633bcb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941221539"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941221539"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46652a99c39206b633bff"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46652a99c39206b633bf8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941266931"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941266931"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4666ca99c39206b633c2e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a4666ca99c39206b633c27"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941292320"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941292320"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46691a99c39206b633c5b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46691a99c39206b633c54"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941329695"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941329695"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a466a8a99c39206b633c89"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a466a7a99c39206b633c81"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941352044"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941352044"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46702a99c39206b633cbc"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46702a99c39206b633cb5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941442552"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941442552"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46726a99c39206b633ce9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46725a99c39206b633ce2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941478033"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941478033"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46737a99c39206b633d16"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46737a99c39206b633d0f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941495612"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941495612"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46757a99c39206b633d43"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46756a99c39206b633d3c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941527159"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941527159"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4676fa99c39206b633d71"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a4676fa99c39206b633d69"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941551231"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941551231"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a467c7a99c39206b633da4"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a467c7a99c39206b633d9d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941639646"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941639646"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a467eca99c39206b633dd1"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a467eca99c39206b633dca"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941676295"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941676295"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a467fba99c39206b633dfe"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a467faa99c39206b633df7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941691179"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941691179"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46813a99c39206b633e2b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46813a99c39206b633e24"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941715969"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941715969"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46828a99c39206b633e59"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46828a99c39206b633e51"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941736509"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941736509"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46888a99c39206b633e8c"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46887a99c39206b633e85"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941832152"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941832152"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a468b7a99c39206b633eb9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a468b7a99c39206b633eb2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941879936"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941879936"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a468c3a99c39206b633ee6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a468c3a99c39206b633edf"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941891961"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941891961"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a468daa99c39206b633f13"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a468daa99c39206b633f0c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941914251"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941914251"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a468eca99c39206b633f41"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a468eca99c39206b633f39"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941932580"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941932580"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4693aa99c39206b633f74"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a4693aa99c39206b633f6d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942010594"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942010594"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4695aa99c39206b633fa1"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a4695aa99c39206b633f9a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942042699"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942042699"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46967a99c39206b633fce"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46967a99c39206b633fc7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942055232"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942055232"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46981a99c39206b633ffb"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46981a99c39206b633ff4"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942081390"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942081390"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46995a99c39206b634029"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46995a99c39206b634021"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942101967"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942101967"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a469dea99c39206b63405c"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a469dea99c39206b634055"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942174548"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942174548"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46a0fa99c39206b634089"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46a0ea99c39206b634082"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942223151"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942223151"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46a1ea99c39206b6340b6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46a1da99c39206b6340af"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942238090"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942238090"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46a3ca99c39206b6340e3"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46a3ca99c39206b6340dc"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942268715"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942268715"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46a54a99c39206b634111"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46a54a99c39206b634109"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942292593"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942292593"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46acba99c39206b634144"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46acba99c39206b63413d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942411504"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942411504"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46af5a99c39206b634171"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46af4a99c39206b63416a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942453091"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942453091"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46b04a99c39206b63419e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46b04a99c39206b634197"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942468532"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942468532"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46b26a99c39206b6341cb"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46b25a99c39206b6341c4"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942502155"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942502155"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46b3da99c39206b6341f9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46b3ca99c39206b6341f1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942525027"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942525027"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46b91a99c39206b63422c"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46b91a99c39206b634225"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942609773"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942609773"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46bcaa99c39206b634259"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46bcaa99c39206b634252"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942666552"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942666552"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46bd7a99c39206b634286"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46bd6a99c39206b63427f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942679080"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942679080"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46bf1a99c39206b6342b3"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46bf1a99c39206b6342ac"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942705470"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942705470"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46c0ca99c39206b6342e1"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46c0ca99c39206b6342d9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942732596"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942732596"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46cc2a99c39206b634395"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46cc2a99c39206b63438e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942914471"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942914471"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46ceea99c39206b6343c2"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46ceea99c39206b6343bb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942958363"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942958363"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46cfca99c39206b6343ef"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46cfca99c39206b6343e8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942972647"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942972647"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46d1ba99c39206b63441c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46d1ba99c39206b634415"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943003452"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943003452"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46d31a99c39206b63444a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46d31a99c39206b634442"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943025958"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943025958"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46d83a99c39206b63447d"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46d82a99c39206b634476"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943107165"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943107165"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46daba99c39206b6344aa"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46daba99c39206b6344a3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943147307"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943147307"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46dc7a99c39206b6344fc"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46dc6a99c39206b6344f5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943175070"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943175070"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46de2a99c39206b634529"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46de2a99c39206b634522"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943202487"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943202487"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46e03a99c39206b634557"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46e03a99c39206b63454f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943235505"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943235505"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46e4ba99c39206b63458a"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46e4ba99c39206b634583"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943307313"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943307313"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46e83a99c39206b6345b7"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46e83a99c39206b6345b0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943363478"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943363478"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46e97a99c39206b6345e4"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46e96a99c39206b6345dd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943383113"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943383113"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46f22a99c39206b6346b8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46f22a99c39206b6346b1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943522340"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943522340"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46f37a99c39206b6346e6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46f37a99c39206b6346de"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943543277"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943543277"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46f87a99c39206b634719"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a46f87a99c39206b634712"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943623533"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943623533"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46fafa99c39206b634746"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a46fafa99c39206b63473f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943663391"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943663391"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46fbca99c39206b634773"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a46fbca99c39206b63476c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943676849"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943676849"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46fd4a99c39206b6347a0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a46fd4a99c39206b634799"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943700812"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943700812"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46feba99c39206b6347ce"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a46feaa99c39206b6347c6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943723153"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943723153"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dc3e01bbad00e735b6ce"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6dc3e01bbad00e735b6c7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102526501"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102526501"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dc6b01bbad00e735b6fb"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6dc6b01bbad00e735b6f4"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102571989"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102571989"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dc7801bbad00e735b728"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6dc7801bbad00e735b721"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102584459"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102584459"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dc9d01bbad00e735b755"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6dc9d01bbad00e735b74e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102621426"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102621426"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dce601bbad00e735b78c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6dce601bbad00e735b784"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102694881"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102694881"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dd4b01bbad00e735b80e"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6dd4b01bbad00e735b807"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102795379"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102795379"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dd7901bbad00e735b83b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6dd7901bbad00e735b834"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102841305"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102841305"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dd8501bbad00e735b868"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6dd8501bbad00e735b861"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102853609"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102853609"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dda901bbad00e735b895"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6dda801bbad00e735b88e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102889115"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102889115"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ddbb01bbad00e735b8c3"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6ddbb01bbad00e735b8bb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655102907304"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102907304"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e1c701bbad00e735b8f6"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e1c701bbad00e735b8ef"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655103943420"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655103943420"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e1f501bbad00e735b923"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e1f501bbad00e735b91c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655103989490"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655103989490"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e1ff01bbad00e735b950"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e1ff01bbad00e735b949"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655103999762"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655103999762"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e22201bbad00e735b97d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e22101bbad00e735b976"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104034027"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104034027"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e23701bbad00e735b9ab"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e23701bbad00e735b9a3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104055468"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104055468"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e27d01bbad00e735b9de"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e27d01bbad00e735b9d7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104125912"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104125912"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e2d601bbad00e735ba0b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e2d601bbad00e735ba04"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104214913"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104214913"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e2e701bbad00e735ba38"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e2e701bbad00e735ba31"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104231679"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104231679"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e30601bbad00e735ba65"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e30501bbad00e735ba5e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104262071"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104262071"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e32201bbad00e735ba93"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e32101bbad00e735ba8b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104290160"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104290160"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e42701bbad00e735be60"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e42701bbad00e735be59"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104551855"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104551855"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e44f01bbad00e735be8d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e44e01bbad00e735be86"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104591157"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104591157"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e45901bbad00e735beba"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e45901bbad00e735beb3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104601341"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104601341"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e47501bbad00e735bee7"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e47501bbad00e735bee0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104629515"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104629515"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e48601bbad00e735bf15"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e48601bbad00e735bf0d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104646292"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104646292"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e4fb01bbad00e735bf4c"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e4fb01bbad00e735bf45"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104763570"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104763570"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e53001bbad00e735bf79"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e53001bbad00e735bf72"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104816292"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104816292"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e53b01bbad00e735bfa6"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e53b01bbad00e735bf9f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104827622"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104827622"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e56001bbad00e735bfd3"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e56001bbad00e735bfcc"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104864715"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104864715"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e57201bbad00e735c001"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e57201bbad00e735bff9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104882719"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104882719"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e5b701bbad00e735c038"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e5b701bbad00e735c031"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104951327"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104951327"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e5e201bbad00e735c065"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e5e101bbad00e735c05e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104994035"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104994035"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e5ee01bbad00e735c092"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e5ed01bbad00e735c08b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105006065"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105006065"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e61001bbad00e735c0bf"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e61001bbad00e735c0b8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105040648"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105040648"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e62401bbad00e735c0ed"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e62401bbad00e735c0e5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105060769"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105060769"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e69a01bbad00e735c121"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e69901bbad00e735c11a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105178215"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105178215"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e6d901bbad00e735c178"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e6d901bbad00e735c171"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105241216"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105241216"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e6e501bbad00e735c1a5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e6e401bbad00e735c19e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105253050"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105253050"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e70601bbad00e735c1d2"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e70601bbad00e735c1cb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105286420"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105286420"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e71f01bbad00e735c200"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e71f01bbad00e735c1f8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105311924"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105311924"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e76d01bbad00e735c257"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e76d01bbad00e735c250"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105389610"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105389610"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e7a601bbad00e735c285"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e7a601bbad00e735c27e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105446727"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105446727"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e7b501bbad00e735c2b2"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e7b501bbad00e735c2ab"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105461693"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105461693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e7d801bbad00e735c2df"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e7d801bbad00e735c2d8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105496597"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105496597"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e7ea01bbad00e735c30d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e7ea01bbad00e735c305"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105514685"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105514685"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e84201bbad00e735c36e"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e84101bbad00e735c367"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105602139"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105602139"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e86601bbad00e735c39b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e86501bbad00e735c394"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105638167"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105638167"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e87801bbad00e735c3c8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e87701bbad00e735c3c1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105656110"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105656110"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e89701bbad00e735c3f5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e89701bbad00e735c3ee"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105687547"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105687547"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e8ac01bbad00e735c423"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e8ac01bbad00e735c41b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105708776"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105708776"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e90d01bbad00e735c485"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e90c01bbad00e735c47e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105805126"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105805126"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e93401bbad00e735c4b2"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6e93401bbad00e735c4ab"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105844357"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105844357"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e94501bbad00e735c4df"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6e94401bbad00e735c4d8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105861202"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105861202"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e95601bbad00e735c50d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6e95601bbad00e735c505"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105878619"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105878619"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e97201bbad00e735c53a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6e97201bbad00e735c533"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105906531"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105906531"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e9d801bbad00e735c5bf"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6e9d801bbad00e735c5b8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106008672"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106008672"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ea0801bbad00e735c5ec"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6ea0801bbad00e735c5e5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106056698"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106056698"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ea1601bbad00e735c619"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6ea1601bbad00e735c612"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106070672"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106070672"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ea2c01bbad00e735c647"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6ea2c01bbad00e735c63f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106092273"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106092273"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ea4c01bbad00e735c674"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6ea4c01bbad00e735c66d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106124578"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106124578"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eaa301bbad00e735c6a7"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6eaa301bbad00e735c6a0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106211369"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106211369"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ead001bbad00e735c6d4"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6eacf01bbad00e735c6cd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106256123"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106256123"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eaf101bbad00e735c701"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6eaf101bbad00e735c6fa"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106289195"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106289195"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eb0801bbad00e735c72e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6eb0701bbad00e735c727"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106312004"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106312004"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eb1601bbad00e735c75c"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6eb1601bbad00e735c754"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106326819"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106326819"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ebad01bbad00e735c79c"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6ebad01bbad00e735c794"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106477299"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106477299"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ebd201bbad00e735c7cb"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6ebd101bbad00e735c7c3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106514056"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106514056"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ebde01bbad00e735c7fa"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6ebde01bbad00e735c7f2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106526259"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106526259"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ebf401bbad00e735c829"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6ebf301bbad00e735c821"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106548064"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106548064"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ec0601bbad00e735c859"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6ec0601bbad00e735c850"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106566404"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106566404"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eccc01bbad00e735c918"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6eccc01bbad00e735c911"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106764936"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106764936"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ecfb01bbad00e735c945"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6ecfb01bbad00e735c93e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106811514"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106811514"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ed0c01bbad00e735c973"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6ed0b01bbad00e735c96b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106828196"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106828196"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ed1701bbad00e735c9a0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6ed1701bbad00e735c999"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106839499"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106839499"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ed3401bbad00e735c9cd"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6ed3401bbad00e735c9c6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106868337"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106868337"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ed7e01bbad00e735ca30"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6ed7d01bbad00e735ca29"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106942185"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106942185"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eda201bbad00e735ca5d"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6eda201bbad00e735ca56"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106978795"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106978795"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6edad01bbad00e735ca8a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6edad01bbad00e735ca83"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106989718"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106989718"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6edc101bbad00e735cab8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6edc101bbad00e735cab0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107009918"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107009918"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ede901bbad00e735cae5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6ede901bbad00e735cade"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107049435"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107049435"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ee4701bbad00e735cb69"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6ee4701bbad00e735cb62"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107143632"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107143632"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ee5201bbad00e735cb96"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6ee5201bbad00e735cb8f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107154469"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107154469"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ee8001bbad00e735cbc3"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6ee8001bbad00e735cbbc"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107200395"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107200395"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ee9401bbad00e735cbf1"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6ee9401bbad00e735cbe9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107220350"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107220350"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eeaf01bbad00e735cc1e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6eeaf01bbad00e735cc17"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107247859"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107247859"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eee601bbad00e735cc51"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6eee601bbad00e735cc4a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107302332"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107302332"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef1201bbad00e735cc7e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6ef1201bbad00e735cc77"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107346684"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107346684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef1e01bbad00e735ccab"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6ef1e01bbad00e735cca4"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107358685"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107358685"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef3301bbad00e735ccd9"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6ef3301bbad00e735ccd1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107379456"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107379456"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef4e01bbad00e735cd06"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6ef4e01bbad00e735ccff"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107406807"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107406807"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef8301bbad00e735cd39"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6ef8301bbad00e735cd32"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107459928"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107459928"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6efb901bbad00e735cd66"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6efb901bbad00e735cd5f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107513424"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107513424"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6efd701bbad00e735cd93"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6efd701bbad00e735cd8c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107543849"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107543849"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eff501bbad00e735cdc0"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6eff501bbad00e735cdb9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107573459"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107573459"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f00501bbad00e735cdee"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6f00501bbad00e735cde6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107589362"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107589362"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f1a501bbad00e735ce4e"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6f1a501bbad00e735ce47"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108005916"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108005916"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f1d901bbad00e735ce7b"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6f1d901bbad00e735ce74"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108057303"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108057303"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f1e901bbad00e735cea8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6f1e901bbad00e735cea1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108073773"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108073773"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f21401bbad00e735ced5"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6f21401bbad00e735cece"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108116902"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108116902"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f22a01bbad00e735cf03"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6f22901bbad00e735cefb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108138043"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108138043"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f26201bbad00e735cf37"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6f26201bbad00e735cf30"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108194236"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108194236"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f29501bbad00e735cf64"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6f29501bbad00e735cf5d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108245944"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108245944"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f2a401bbad00e735cf91"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6f2a401bbad00e735cf8a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108260955"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108260955"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f2b701bbad00e735cfbf"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6f2b601bbad00e735cfb7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108279194"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108279194"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f2de01bbad00e735cfec"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6f2de01bbad00e735cfe5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108318899"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108318899"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f38201bbad00e735d07d"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6f38101bbad00e735d076"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108482197"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108482197"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f3a701bbad00e735d0aa"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6f3a701bbad00e735d0a3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108519470"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108519470"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f3b201bbad00e735d0d7"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6f3b201bbad00e735d0d0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108530724"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108530724"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f3c301bbad00e735d104"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6f3c301bbad00e735d0fd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108547743"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108547743"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f3db01bbad00e735d132"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6f3db01bbad00e735d12a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108571385"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108571385"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f45c01bbad00e735d165"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6f45b01bbad00e735d15e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108700223"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108700223"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f48e01bbad00e735d192"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6f48e01bbad00e735d18b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108750977"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108750977"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f49f01bbad00e735d1bf"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6f49f01bbad00e735d1b8"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108767259"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108767259"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f4bc01bbad00e735d1ec"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6f4bc01bbad00e735d1e5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108796277"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108796277"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f4d001bbad00e735d21a"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6f4d001bbad00e735d212"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108816939"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108816939"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f51f01bbad00e735d251"
+  },
+  "quiz_type": {
+    "$oid": "626a5b20276a20495af802ce"
+  },
+  "quiz_id": {
+    "$oid": "62a6f51f01bbad00e735d24a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108895580"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108895580"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f54801bbad00e735d27e"
+  },
+  "quiz_type": {
+    "$oid": "626a5bac276a20495af802d0"
+  },
+  "quiz_id": {
+    "$oid": "62a6f54701bbad00e735d277"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108936211"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108936211"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f55b01bbad00e735d2ab"
+  },
+  "quiz_type": {
+    "$oid": "626a5bb7276a20495af802d2"
+  },
+  "quiz_id": {
+    "$oid": "62a6f55b01bbad00e735d2a4"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108955480"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108955480"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f57201bbad00e735d2d8"
+  },
+  "quiz_type": {
+    "$oid": "626a5bbd276a20495af802d4"
+  },
+  "quiz_id": {
+    "$oid": "62a6f57201bbad00e735d2d1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108978556"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108978556"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f58401bbad00e735d306"
+  },
+  "quiz_type": {
+    "$oid": "626a5bc1276a20495af802d6"
+  },
+  "quiz_id": {
+    "$oid": "62a6f58401bbad00e735d2fe"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108996362"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108996362"
+    }
+  }
+}]

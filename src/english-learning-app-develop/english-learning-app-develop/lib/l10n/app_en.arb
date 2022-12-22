@@ -1,0 +1,193 @@
+{
+
+    "textCarousel1": "Learn new word from anytime,\nanywhere",
+
+    "helloWorld": "Hello World!",
+    "signInText": "Sign In",
+    "login_screen_welcome_text": "Welcome to My English App",
+    "login_screen_welcome_text2": "Let's get started",
+    "username": "Username",
+    "email": "Email",
+    "password": "Password",
+    "signUpDescription": "Don't Have an Account?",
+    "createAccount": "Create Account",
+    "signUpDescriptionText": "By choosing to continue, you agree to accept all our applicable Terms & Conditions and Privacy Policy",
+    "loginWithGoogle":"Login with Google",
+    "loginWithFacebook": "Login with facebook",
+    "signUpText": " Sign Up",
+    "confirmPassword": "Confirm Password",
+    "orLoginWith": "Or Login With",
+    "forgotPassword": "Forgot password?",
+    "lastname": "Last name",
+    "firstname": "First name",
+    "sendRequest": "Send request",
+    "resetPassword": "Reset password",
+    "resetPasswordDescription": "Enter the email associated with your account and we'll send and email with instruction to reset your password",
+
+    "signUpSuccess": "Register Successfully",
+    "invalidCredentialLoginError": "Login credentials is invalid",
+    "somethingwentwrongpleasetryagainlater": "Something went wrong, please try again later",
+
+    "noInternetConnection": "Please check your internet connection and try again",
+    "connectionTimeout": "Connection timed out",
+    
+    "prepDataLoading": "We're preparing the app's data for you",
+    "pleaseAMomment": "Please wait us a moment",
+
+    "notifications": "Notifications",
+
+    "errorInvalidEmail": "Invalid Email",
+
+    "activatedAccount": "Activate account",
+    "expired": "The code will expired in ",
+    "otpSend": "Code is sent to email ",
+    "activate": "Activate",
+    "notreceivecode": "Didn't receive the code?",
+    "resend": "Resend",
+
+    "loginSessionExpired": "Login session expired\nPlease login again",
+
+    "forgotPasswordSendSuccess": "A password recovery link has been sent to your email\nPlease follow the link for password reset",
+    "emailNotBeenFound": "This email has not been associated to any account in our system yet\nPlease check again",
+
+
+    "subjectTab": "Subjects",
+    "reviewTab": "Review",
+    "favouriteTab": "Favourite",
+    "profileTab": "Profile",
+
+    "errorEmptyEmail": "Email can't be empty",
+    "errorEmptyUserName": "First name can't be empty",
+    "errorEmptyPassword": "Password can't be empty",
+    "errorMiniumPassword": "Minimum eight characters\nAt least one uppercase letter\nAt lease one lowercase letter and one number",
+    "errorPasswordMatch": "Passwords do not match",
+    
+
+    "adjective": "Adjective",
+    "noun": "Noun",
+    "verb": "Verb",
+    "adverb": "Adverb",
+    "pronoun": "Pronoun",
+    "example": "Example",
+    "definition": "Definition",
+
+    "settings": "Settings",
+    "leaderboard": "Leader Board",
+    "leaderboard_nodata": "You have no Facebook friends using this app or system got some problem  ",
+    "navbar_leaderboard": "Leader Board",
+    "leaderboard_permisson": "Leader Board Data Permission",
+    "feedback": "Feedback",
+    
+    "general": "General",
+    "cropper": "Image cropper",
+
+    "personalInfo": "Personal's info",
+    "saveButton": "Save",
+    "linkedAccount": "Linked Account",
+
+    "signout": "Sign out",
+    "areyousuretosignout": "Are you sure you want to log out",
+    "yes": "Yes",
+    "no": "No",
+
+    "search": "Search...",
+
+    "appLanguage": "App language",
+    "englishLanguage": "English",
+    "vietnameseLanguage": "Vietnamese",
+
+    "avatarUpdateUnsuccess": "Avatar update unsuccessfully, please try again later",
+    "doneButton": "Done",
+    "cancelButton": "Cancel",
+
+    "startQuiz": "Start quiz",
+
+    "appTheme": "App Theme",
+    "darkmode": "Dark",
+    "lightmode": "Light",
+    "system": "System",
+
+    "quizFillChar": "Missing Chars",
+    "quizFillWord": "Gap Fill",
+    "quizRightPronouce": "Right Pronouce",
+    "quizRightWord": "Multiple Choice",
+    "quizTransArrage": "Correct Sentence",
+
+    "wordOne": "Word 1",
+    "wordTwo": "Word 2",
+
+    "correct": "Correct",
+    "incorrect": "Incorrect",
+    "check": "Check",
+    "lessonRelated": "Lessons related to ",
+    "accuracy": "Accuracy",
+    "complete": "Complete",
+    "next": "Next",
+    "whichWordMean": "Which word mean...",
+    "answer": "Answer",
+    "rearrangeSentence": "Rearrange sentence",
+    "totalPoint": "Total point: ",
+    "correctPoint": "Correct: ",
+    "wrongPint": "Incorrect: ",
+    "wellDoneKeepGoing": "Well done, keep going",
+    "trueAnswer": "Solution",
+    "totalQuiz": "Total quizzes",
+    "lesson": "Lessons",
+    "fillMissingChar":"Fill the missing chars for word below",
+    "fillMissingWord": "Choose correct word to fill the blank space",
+    "chooseRightPronouce": "Choose correct pronounciation of word",
+    "chooseRightChoice": "Choose the correct meaning",
+    "arrangeWord": "Translate and arrrage sentence",
+    "areYouSureProgressLost":"Are you sure you want to quit\nProgress of this lesson will be lost",
+    "start": "Start",
+    "keepTrying": "Keep trying, you almost get it",
+    "veryGood": "Congratulation, you are fully understood this lesson",
+    "bad": "Oh so bad! You need to work harder",
+
+    "unlinkAccount":"This action will unlink your account to",
+    "accountLinkAlready": "Other account has link to this service\nPlease try another",
+
+
+    "sortAToZ": "Alphabetical: A-Z",
+    "sortZToA": "Alphabetical: Z-A",
+    "sortDateNewToOld": "Date: Newest to Oldest",
+    "sortDateOldToNew": "Date: Oldest to Newest",
+    "sortCompleteNewToOld": "Completion time: Fast - Slow",
+    "sortCompleteOldToNew": "Completion time: Slow - Fast",
+    "addNewFavouriteWord": "Add New Word",
+    "deleteButton": "Delete",
+
+    "point": "Point",
+    "totalQuestion": "Total question",
+    "totalIncorrectQuestion": "Total incorrect",
+    "completedIn": "Complete in",
+    "totalWordLearn": "Total word learn",
+    "averageAccuracy": "Average accuracy",
+    "totalTimeSpent": "Total time spent",
+
+    "againButton": "Again",
+    "hardButton": "Hard",
+    "goodButton": "Good",
+    "easyButton": "Easy",
+    "completeLessonToHaveWord": "Complete lesson for learning words",
+    "history": "History",
+    "notiTile": "Hi it's MyVocab",
+    "notification1": "Hey wake up, time to learn some english",
+    "notification2": "It's your time for your daily english, just take 5 minutes to complete it",
+    "weekday": "Weekday",
+    "sunday": "Sun",
+    "startAt": "Start at",
+    "chooseTime": "Choose time",
+    "askNotiTitle": "MyVocab ask you for notification's permission",
+    "enableNotiButton":  "Enable notification",
+
+    "youKnowThisWord": "Congrat, seem like you know this word properly",
+    "youNotKnowThisWord": "No, it's wrong please flip card and learn again",
+    "synonyms": "Synonyms",
+    "whichWordMeanVn": "is mean..."
+   
+}
+   
+
+
+

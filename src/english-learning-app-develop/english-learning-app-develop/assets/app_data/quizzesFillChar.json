@@ -1,0 +1,2140 @@
+[{
+  "_id": {
+    "$oid": "6289936a4dcca1074a5661c7"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Lawyer - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cda7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184581656"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653183338699"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628999089606ac423b9da481"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Teacher - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da00"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184776387"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184776387"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899d8e9606ac423b9da675"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Cook - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8a3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653185934474"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653185934474"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899f459606ac423b9da71a"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Farmer - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8f9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186373775"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186373775"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a0df9606ac423b9da7cc"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Director - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b28b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186783291"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186783291"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289ab27415292f0ec9bc094"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Doctor - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfcb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189415766"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189415766"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289acf4415292f0ec9bc196"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Engineer - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c31b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189876023"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189876023"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d01e415292f0ec9bc2bf"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Pilot - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8fc"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198878978"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198878978"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d11c415292f0ec9bc3dd"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Nurse - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b085"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199132837"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199132837"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d2c9415292f0ec9bc4d1"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Driver - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dce0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199561208"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199561208"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d391415292f0ec9bc583"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Journalist - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b3c9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199761750"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199761750"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d544415292f0ec9bc6a5"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Scientist - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cee5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200210954"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200196363"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d745415292f0ec9bc830"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Principal - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b05e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200709760"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200709760"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62974aefec3daf580812a42c"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Apple - TRANS_ARRANGE",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c731"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654082287976"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654082287976"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629775d3ec3daf580812a5d3"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Lemon - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d5fb"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093267920"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093267920"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297796dec3daf580812a6b7"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Vegetable - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c428"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094189540"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094189540"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977b0cec3daf580812a78e"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Carrot - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c536"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094604079"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094604079"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977c23ec3daf580812a865"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Onion - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba8d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094883787"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094883787"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977d2aec3daf580812a93b"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Potato - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae98"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095146382"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095146382"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977e49ec3daf580812aa86"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Pepper - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c0ac"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095433377"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095433377"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16e1688e4f1334eb14ac0"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Meat _ FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ccdf"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746646614"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746646614"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fcf17d9f02220765ea25"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Beef - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2ee"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783217418"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783217418"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fe2b7d9f02220765eb0a"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Chicken - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d516"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783531958"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783531958"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fefc7d9f02220765ec21"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Fish - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a649"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783740786"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783740786"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a200207d9f02220765ed54"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Egg - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dd67"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784032953"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784032953"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a201137d9f02220765edda"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Cook (Verb) - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa6e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784275730"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784275730"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a202067d9f02220765ee8b"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Boil - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b030"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784518646"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784518646"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203707d9f02220765efbd"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Dry - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ce45"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784880839"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784880839"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20ab67d9f02220765f14a"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Prepare - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa9c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786742657"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786742657"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20c0d7d9f02220765f2a5"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Heat - FIll_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bc21"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787085909"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787085909"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20cd47d9f02220765f378"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Bake - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d945"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787284681"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787284681"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f577d9f02220765f535"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Fry - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b9b3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787927523"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787927523"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2102a7d9f02220765f605"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Chop - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6df"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788138747"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788138747"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a217d34a59a53340fa6510"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Slice - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa4a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790099526"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790099526"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218cf4a59a53340fa6607"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Mix - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b973"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790351184"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790351184"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2218eb2058921d3746d1e"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Tall - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b04b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792590253"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792590253"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22232b2058921d3746dc5"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Short - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792754468"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792754468"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22337b2058921d3746ee8"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Height - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bffa"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793015592"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793015592"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a223e5b2058921d3746fb8"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Thin - FILL_Char",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b410"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793189724"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793189724"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2248db2058921d3747061"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Weight - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b217"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793357768"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793357768"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22bf9b2058921d3747170"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Strong - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ddd1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795257668"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795257668"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22d0cb2058921d3747267"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Heavy - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b4e6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795532207"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795532207"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a230b2b2058921d3747403"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Light - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ab14"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796466650"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796466650"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a231b9b2058921d3747549"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Slight - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cf3c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796729250"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796729250"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44a5763fedf08b57cd45a"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Appearance - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c031"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934103239"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934103239"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44bd363fedf08b57cd551"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Beautiful - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a72f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934483637"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934483637"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45871a99c39206b63314c"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "pretty - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b965"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937713866"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937713866"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a459fba99c39206b633243"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Gorgeous - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4db35"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938107020"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938107020"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45b5ea99c39206b63335b"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Sexy - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4df00"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938462849"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938462849"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45c60a99c39206b633443"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Ugly - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c6be"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938720138"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938720138"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45d41a99c39206b63352b"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Attractive - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6dd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938945150"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938945150"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45e35a99c39206b633614"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Cute - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da19"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939310739"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939189146"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f5ca99c39206b63375e"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Old - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cba0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939484306"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939484306"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46048a99c39206b63387d"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Young - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b30f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939720698"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939720698"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46137a99c39206b633965"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Hair - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cd2a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939959697"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939959697"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4641fa99c39206b633a55"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Long - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940703747"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940703747"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46582a99c39206b633b3d"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Short - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941058983"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941058983"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4666ca99c39206b633c27"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Curly - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d01b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941292116"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941292116"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46737a99c39206b633d0f"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Straight - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b294"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941495414"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941495414"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a467faa99c39206b633df7"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Head - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a387"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941690973"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941690973"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a468c3a99c39206b633edf"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Face - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4afb7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941891749"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941891749"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46967a99c39206b633fc7"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Eye - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4be75"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942055014"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942055014"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46a1da99c39206b6340af"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Ear - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a360"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942237795"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942237795"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46b04a99c39206b634197"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Nose - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b415"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942468324"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942468324"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46bd6a99c39206b63427f"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Cheek - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d575"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942678876"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942678876"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46cfca99c39206b6343e8"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Mouth - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba6d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942972453"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942972453"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46dc6a99c39206b6344f5"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Lip - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a52b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943174859"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943174859"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46e96a99c39206b6345dd"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tongue - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a4c6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943408078"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943382895"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46fbca99c39206b63476c"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tooth - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af1f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943676628"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943676628"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dc7801bbad00e735b721"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Neck - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b837"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104309183"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102584209"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dd8501bbad00e735b861"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Shoulder - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104355665"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102853385"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e1ff01bbad00e735b949"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Arm - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac0c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104396898"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655103999546"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e2e701bbad00e735ba31"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Elbow - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b91e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104432554"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104231459"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e45901bbad00e735beb3"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Wrist - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad3f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104601151"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104601151"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e53b01bbad00e735bf9f"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Hand - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4baa6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104827419"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104827419"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e5ed01bbad00e735c08b"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Finger - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a835"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105005890"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105005890"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e6e401bbad00e735c19e"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Chest - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c25c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105252840"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105252840"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e7b501bbad00e735c2ab"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Waist - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad18"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105461478"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105461478"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e87701bbad00e735c3c1"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Hip - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae45"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105655887"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105655887"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e94401bbad00e735c4d8"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Leg - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a9ab"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105860997"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105860997"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ea1601bbad00e735c612"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Knee - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac83"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106070466"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106070466"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eaf101bbad00e735c6fa"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Foot - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bd9c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106289002"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106289002"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ebde01bbad00e735c7f2"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Heel - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af60"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106526065"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106526065"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ed1701bbad00e735c999"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Clothes - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b0ab"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106839282"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106839282"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6edad01bbad00e735ca83"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Shirt - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d6c5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106989513"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106989513"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ee5201bbad00e735cb8f"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Skirt - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8f7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107154242"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107154242"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef1e01bbad00e735cca4"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Pants - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d39d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107358466"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107358466"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6efd701bbad00e735cd8c"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Dress - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b951"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107543607"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107543607"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f1e901bbad00e735cea1"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Coat - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c2e6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108073553"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108073553"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f2a401bbad00e735cf8a"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Glove - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2de"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108260734"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108260734"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f3b201bbad00e735d0d0"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Hat - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfb9"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108530514"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108530514"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f49f01bbad00e735d1b8"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Belt - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a678"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108767027"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108767027"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f55b01bbad00e735d2a4"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Shoe - FILL_CHAR",
+  "type": "FILL_CHAR",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c81a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655109009070"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108955279"
+    }
+  }
+}]

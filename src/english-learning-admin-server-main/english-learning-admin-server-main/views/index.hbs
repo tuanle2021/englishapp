@@ -1,0 +1,41 @@
+<h1>{{title}}</h1>
+<i>{{webUrl}}</i>
+<h3><a href="https://docs.google.com/spreadsheets/d/1VY5B8Os8oFX5Fknqzv-B9bLwtRgffh_87-iKpEAQZGU/edit#gid=0">Lesson mẫu</a></h3>
+<h3><a href="https://docs.google.com/spreadsheets/d/1j0CQ7WftqQGol2Y0cTp1ruj6wbVqM7CtAJzyX225DJM/edit#gid=0">DB Lesson mẫu</a></h3>
+<pre>
+Category:
+- Mini-level: level 1, 2, 3, etc.
+- Lesson: a subtype of quizzes
+- Quiz: included in a lesson
+
+Category:
+- Level name (Beginner || Intermediate || Advanced || Professional)
+
+
+MiniLevel:
+- Category id
+
+Lesson:
+- Mini-level id
+
+Quiz:
+- Lesson id
+
+
+e.g:
+ - Level `Beginner` has a category `Gia đình`.
+ - Inside category `Gia đình`, there are 3 mini-levels (1, 2 and 3). *Note that in the app, it shows "level" instead of "mini-level"
+ - Mini-level 1 includes 3 lessons: `Thành viên gia đình`, `Việc nhà`, `Phòng ốc`
+ - Lesson `Thành viên gia đình` includes tons of quizzes that involve the words related to the family topic.
+
+</pre>
+<h3><a href="{{authUrl}}">Auth APIs</a> </h3>
+<h3><a href="{{wordUrl}}">Word APIs</a> </h3>
+<h3><a href="{{catUrl}}">Category APIs</a> </h3>
+{{!-- <h3><a href="{{levelUrl}}">Level APIs</a> </h3> --}}
+<h3><a href="{{sentenceUrl}}">Sentence APIs</a> </h3>
+{{!-- <h3><a href="{{quizTypeUrl}}">Quiz Type APIs</a> </h3> --}}
+<h3><a href="{{quizUrl}}">Quiz APIs</a> </h3>
+<!--<h3><a href="{{userUrl}}">User APIs</a> </h3>-->
+<h3><a href="{{lessonUrl}}">Lesson APIs</a> </h3>
+<h3><a href="{{minilevelUrl}}">Minilevel APIs</a> </h3>

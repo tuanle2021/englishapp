@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "739629521288",
+    "project_id": "english-learning-app-345402",
+    "storage_bucket": "english-learning-app-345402.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739629521288:android:298604e485ac274100023d",
+        "android_client_info": {
+          "package_name": "com.doantotnghiep.learneng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "739629521288-m5nvd5kiso1e7d559un4ec25r2j4gn2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doantotnghiep.learneng",
+            "certificate_hash": "1ca98044055a03e62090a765dc01330fbe75e500"
+          }
+        },
+        {
+          "client_id": "739629521288-le0f3p9lak3d692juqo1u49t8r9rsh98.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBujmVXm6yvtIkdFKPM4rifuZyb-J7UCuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "739629521288-le0f3p9lak3d692juqo1u49t8r9rsh98.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "739629521288-fc0k11s7tseomhteju2cegb63pabdcgd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.learningEnglishApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

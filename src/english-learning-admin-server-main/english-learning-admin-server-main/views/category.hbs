@@ -1,0 +1,46 @@
+<h1>{{title}}</h1>
+<a href="{{webUrl}}">Home</a>
+<h3>Category APIs</h3>
+<h3>Create a category</h3>
+<pre>
+  POST
+  {{webUrl}}/category
+
+  example body:
+  {
+    "name": "Jobs",
+    "levelType": "BEGINNER",
+  }
+
+  *note: levelType =   BEGINNER || INTERMEDIATE || ADVANCED || PROFESSIONAL
+</pre>
+<h3>Read all categories</h3>
+<pre>
+  GET
+  {{webUrl}}/category/all
+</pre>
+<h3>Read a category</h3>
+<pre>
+  GET
+  {{webUrl}}/category/:id
+</pre>
+<h3>Update category</h3>
+<pre>
+  POST
+  {{webUrl}}/category/update/:id
+
+  example body:
+  {
+    "name": "Animals"
+  }
+</pre>
+<h3>Delete a category</h3>
+<pre>
+  GET
+  {{webUrl}}/category/delete/:id
+</pre>
+<h3>Delete all categories</h3>
+<pre>
+  GET
+  {{webUrl}}/category/delete/all
+</pre>

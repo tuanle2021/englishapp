@@ -1,0 +1,59 @@
+<h1>{{title}}</h1>
+<a href="{{webUrl}}">Home</a>
+<h3>Sentence APIs</h3>
+<h3>Create a sentence</h3>
+<pre>
+  POST
+  {{webUrl}}/sentence
+
+  example body:
+  {
+    "lesson": "62543f58d912fc60e215d1e8",
+    "related_word_id": "62544eb808a8bc9c5b06eb87",
+    "original": [{
+      "language": "en-us",
+      "content": "My father is a police."
+    }],
+    "translated": [{
+      "language": "vn",
+      "content": "Bố của tôi là một cảnh sát."
+    }]
+  }
+</pre>
+<h3>Read all sentences</h3>
+<pre>
+  GET
+  {{webUrl}}/sentence/all
+</pre>
+<h3>Read a sentence</h3>
+<pre>
+  GET
+  {{webUrl}}/sentence/:id
+</pre>
+<h3>Read a sentence by it field value</h3>
+<pre>
+  GET
+  {{webUrl}}/search?search_field=&ltlesson>&search_value=&lt62544d0758a5eae8a4932aa3>
+</pre>
+<h3>Update sentence</h3>
+<pre>
+  POST
+  {{webUrl}}/sentence/update/:id
+
+  example body:
+  {
+      "original": [{
+          "content": "Polic Police Polices."
+      }]
+  }
+</pre>
+<h3>Delete a sentence</h3>
+<pre>
+  GET
+  {{webUrl}}/sentence/delete/:id
+</pre>
+<h3>Delete all sentences</h3>
+<pre>
+  GET
+  {{webUrl}}/sentence/delete/all
+</pre>

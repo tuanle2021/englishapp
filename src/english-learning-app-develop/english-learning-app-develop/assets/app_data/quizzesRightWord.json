@@ -1,0 +1,2701 @@
+[{
+  "_id": {
+    "$oid": "6289a1079606ac423b9da7e6"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Director - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b28b"
+  },
+  "correctChoice": "Director",
+  "firstChoice": "Teacher",
+  "secondChoice": "Cook",
+  "thirdChoice": "Lawyer",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186823389"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186823389"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628995a04dcca1074a566281"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Lawyer - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cda7"
+  },
+  "correctChoice": "Lawyer",
+  "firstChoice": "Cook",
+  "secondChoice": "Director",
+  "thirdChoice": "Teacher",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653183904318"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653183904318"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289ad1f415292f0ec9bc1be"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Engineer - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c31b"
+  },
+  "correctChoice": "Engineer",
+  "firstChoice": "Doctor",
+  "secondChoice": "Pilot",
+  "thirdChoice": "Pilot",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189919242"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189919242"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d13e415292f0ec9bc405"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Nurse - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b085"
+  },
+  "correctChoice": "Nurse",
+  "firstChoice": "Doctor",
+  "secondChoice": "Dentist",
+  "thirdChoice": "Pilot",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655662257959"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199166665"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d433415292f0ec9bc5fe"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Journalist - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b3c9"
+  },
+  "correctChoice": "Journalist",
+  "firstChoice": "Driver",
+  "secondChoice": "Plumber",
+  "thirdChoice": "Hairdresser",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199923306"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199923306"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d796415292f0ec9bc881"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Principal - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b05e"
+  },
+  "correctChoice": "principal",
+  "firstChoice": "journalist",
+  "secondChoice": "singer",
+  "thirdChoice": "driver",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200790135"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200790135"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977b33ec3daf580812a7b6"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Carrot - RIGT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c536"
+  },
+  "correctChoice": "Carrot",
+  "firstChoice": "Onion",
+  "secondChoice": "Potato",
+  "thirdChoice": "Pepper",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094643407"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094643407"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2024f7d9f02220765eedb"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Boil - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b030"
+  },
+  "correctChoice": "Boils",
+  "firstChoice": "Dries",
+  "secondChoice": "Prepares",
+  "thirdChoice": "Heats",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784591227"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784591227"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20c447d9f02220765f2f6"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Heat - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bc21"
+  },
+  "correctChoice": "Heat",
+  "firstChoice": "Cook",
+  "secondChoice": "Boil",
+  "thirdChoice": "Dry",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787140193"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787140193"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f797d9f02220765f55d"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Fry - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b9b3"
+  },
+  "correctChoice": "Fry",
+  "firstChoice": "Chop",
+  "secondChoice": "Slice",
+  "thirdChoice": "Mix",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787961102"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787961102"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a217ef4a59a53340fa6538"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Slice - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa4a"
+  },
+  "correctChoice": "Slice",
+  "firstChoice": "Mix",
+  "secondChoice": "Bake",
+  "thirdChoice": "Fry",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790127643"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790127643"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22c1ab2058921d3747198"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Strong - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ddd1"
+  },
+  "correctChoice": "Strong",
+  "firstChoice": "Heavy",
+  "secondChoice": "Light",
+  "thirdChoice": "Slight",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795290818"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795290818"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44a8d63fedf08b57cd487"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Appearance - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c031"
+  },
+  "correctChoice": "Appearance",
+  "firstChoice": "Beautiful",
+  "secondChoice": "Pretty",
+  "thirdChoice": "Gorgeous",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934157715"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934157715"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44bf763fedf08b57cd57e"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Beautiful - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a72f"
+  },
+  "correctChoice": "Beautiful",
+  "firstChoice": "Appearance",
+  "secondChoice": "Gorgeous",
+  "thirdChoice": "Sexy",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934519716"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934519716"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46756a99c39206b633d3c"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Straight - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b294"
+  },
+  "correctChoice": "Straight",
+  "firstChoice": "Long",
+  "secondChoice": "Short",
+  "thirdChoice": "Curly",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941526923"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941526923"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46de2a99c39206b634522"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Lip - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a52b"
+  },
+  "correctChoice": "Lip",
+  "firstChoice": "Tongue",
+  "secondChoice": "Cheek",
+  "thirdChoice": "Mouth",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943202295"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943202295"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dc9d01bbad00e735b74e"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Neck - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b837"
+  },
+  "correctChoice": "Neck",
+  "firstChoice": "Shoulder",
+  "secondChoice": "Arm",
+  "thirdChoice": "Elbow",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104335216"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102621200"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e30501bbad00e735ba5e"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Elbow - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b91e"
+  },
+  "correctChoice": "Elbow",
+  "firstChoice": "Wrist",
+  "secondChoice": "Neck",
+  "thirdChoice": "Shoulder",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104261873"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104261873"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e7d801bbad00e735c2d8"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Waist - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad18"
+  },
+  "correctChoice": "Waist",
+  "firstChoice": "Finger",
+  "secondChoice": "Back",
+  "thirdChoice": "Hand",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105496402"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105496402"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e89701bbad00e735c3ee"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Hip - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae45"
+  },
+  "correctChoice": "Hip",
+  "firstChoice": "Leg",
+  "secondChoice": "Knee",
+  "thirdChoice": "Foot",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105687359"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105687359"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eb0701bbad00e735c727"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Foot - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bd9c"
+  },
+  "correctChoice": "Foot",
+  "firstChoice": "Heel",
+  "secondChoice": "Hip ",
+  "thirdChoice": "Leg",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106311787"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106311787"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ede901bbad00e735cade"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Shirt - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d6c5"
+  },
+  "correctChoice": "Shirt",
+  "firstChoice": "Skirt",
+  "secondChoice": "Pants",
+  "thirdChoice": "Dress",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107049225"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107049225"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f21401bbad00e735cece"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Coat - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c2e6"
+  },
+  "correctChoice": "Coat",
+  "firstChoice": "Glove",
+  "secondChoice": "Hat",
+  "thirdChoice": "Belt",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108116719"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108116719"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899e529606ac423b9da6c4"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Cook - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8a3"
+  },
+  "correctChoice": "Cook",
+  "firstChoice": "Teacher",
+  "secondChoice": "Farmer",
+  "thirdChoice": "Lawyer",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186130749"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186130749"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899f799606ac423b9da745"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Farmer - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8f9"
+  },
+  "correctChoice": "Farmer",
+  "firstChoice": "Teacher",
+  "secondChoice": "Cook",
+  "thirdChoice": "Director",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186425237"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186425237"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d045415292f0ec9bc304"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Pilot - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8fc"
+  },
+  "correctChoice": "Pilot",
+  "firstChoice": "Engineer",
+  "secondChoice": "Nurse",
+  "thirdChoice": "Dentist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198917424"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198917424"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d316415292f0ec9bc529"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Driver - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dce0"
+  },
+  "correctChoice": "Driver",
+  "firstChoice": "Shopkeeper",
+  "secondChoice": "Plumber",
+  "thirdChoice": "Electrician",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199638745"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199638745"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62974b34ec3daf580812a454"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Apple - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c731"
+  },
+  "correctChoice": "Apple",
+  "firstChoice": "Banana",
+  "secondChoice": "Lemon",
+  "thirdChoice": "Peach",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654082356295"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654082356295"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977603ec3daf580812a5fc"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Lemon - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d5fb"
+  },
+  "correctChoice": "Lemon",
+  "firstChoice": "Peach",
+  "secondChoice": "Strawberry",
+  "thirdChoice": "Apple",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093315299"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093315299"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977ec1ec3daf580812aade"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Pepper - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c0ac"
+  },
+  "correctChoice": "Pepper",
+  "firstChoice": "Meat",
+  "secondChoice": "Beef",
+  "thirdChoice": "Chicken",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095553232"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095553232"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fe4f7d9f02220765eb32"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Chicken - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d516"
+  },
+  "correctChoice": "Chicken",
+  "firstChoice": "Fish",
+  "secondChoice": "Egg",
+  "thirdChoice": "Meat",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783567977"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783567977"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20d0a7d9f02220765f3c9"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Bake - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d945"
+  },
+  "correctChoice": "Bake",
+  "firstChoice": "Fry",
+  "secondChoice": "Chop",
+  "thirdChoice": "Slice",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787338806"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787338806"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2232cb2058921d3746ec0"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Height - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bffa"
+  },
+  "correctChoice": "Height",
+  "firstChoice": "Thin",
+  "secondChoice": "Weight",
+  "thirdChoice": "Tall",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793004312"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793004312"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a223d8b2058921d3746f90"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Thin - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b410"
+  },
+  "correctChoice": "Thin",
+  "firstChoice": "Weight",
+  "secondChoice": "Tall",
+  "thirdChoice": "Short",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793176983"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793176983"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a224adb2058921d3747089"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Weight - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b217"
+  },
+  "correctChoice": "Weight",
+  "firstChoice": "Tall",
+  "secondChoice": "Short",
+  "thirdChoice": "Height",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793389415"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793389415"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a230e1b2058921d3747430"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Light - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ab14"
+  },
+  "correctChoice": "Light",
+  "firstChoice": "Strong",
+  "secondChoice": "Short",
+  "thirdChoice": "Heavy",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796609268"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796513942"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a458bca99c39206b633184"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "pretty - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b965"
+  },
+  "correctChoice": "Pretty",
+  "firstChoice": "Gorgeous",
+  "secondChoice": "Sexy",
+  "thirdChoice": "Appearance",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937788962"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937788962"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45b87a99c39206b633388"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Sexy - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4df00"
+  },
+  "correctChoice": "Sexy",
+  "firstChoice": "Appearance",
+  "secondChoice": "Beautiful",
+  "thirdChoice": "Pretty",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938503379"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938503379"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45c80a99c39206b633470"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Ugly - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c6be"
+  },
+  "correctChoice": "Ugly",
+  "firstChoice": "Attractive",
+  "secondChoice": "Cute",
+  "thirdChoice": "Old",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938752402"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938752402"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45d68a99c39206b633558"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Attractive - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6dd"
+  },
+  "correctChoice": "Attractive",
+  "firstChoice": "Cute",
+  "secondChoice": "Old",
+  "thirdChoice": "Young",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938984516"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938984516"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4606fa99c39206b6338aa"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Young - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b30f"
+  },
+  "correctChoice": "Young",
+  "firstChoice": "Ugly",
+  "secondChoice": "Attractive",
+  "thirdChoice": "Cute",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939759337"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939759337"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46a3ca99c39206b6340dc"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Ear - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a360"
+  },
+  "correctChoice": "Ear",
+  "firstChoice": "Head",
+  "secondChoice": "Nose",
+  "thirdChoice": "Face",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942268483"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942268483"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46b25a99c39206b6341c4"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Nose - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b415"
+  },
+  "correctChoice": "Nose",
+  "firstChoice": "Head",
+  "secondChoice": "Face",
+  "thirdChoice": "Ear",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942501944"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942501944"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e22101bbad00e735b976"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Arm - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac0c"
+  },
+  "correctChoice": "Arm",
+  "firstChoice": "Elbow",
+  "secondChoice": "Wrist",
+  "thirdChoice": "Neck",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104410044"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104033805"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e61001bbad00e735c0b8"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Finger - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a835"
+  },
+  "correctChoice": "Finger",
+  "firstChoice": "Back",
+  "secondChoice": "Chest",
+  "thirdChoice": "Waist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105040421"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105040421"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e97201bbad00e735c533"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Leg - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a9ab"
+  },
+  "correctChoice": "Legs",
+  "firstChoice": "Knees",
+  "secondChoice": "Feet",
+  "thirdChoice": "Heels",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105906321"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105906321"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ebf301bbad00e735c821"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Heel - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af60"
+  },
+  "correctChoice": "Heel",
+  "firstChoice": "Hip",
+  "secondChoice": "Leg",
+  "thirdChoice": "Knee",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106547857"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106547857"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ed3401bbad00e735c9c6"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Clothes - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b0ab"
+  },
+  "correctChoice": "Clothes",
+  "firstChoice": "Shirt",
+  "secondChoice": "Skirt",
+  "thirdChoice": "Pants",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106868129"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106868129"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eeaf01bbad00e735cc17"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Skirt - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8f7"
+  },
+  "correctChoice": "Skirts",
+  "firstChoice": "Pants",
+  "secondChoice": "Dress",
+  "thirdChoice": "Clothes",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107247650"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107247650"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628999479606ac423b9da49b"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Teacher - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da00"
+  },
+  "correctChoice": "Teacher",
+  "firstChoice": "Farmer",
+  "secondChoice": "Cook",
+  "thirdChoice": "Director",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184839838"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184839838"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977d75ec3daf580812a993"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Potato - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae98"
+  },
+  "correctChoice": "Potato",
+  "firstChoice": "Pepper",
+  "secondChoice": "Vegetable",
+  "thirdChoice": "Carrot",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095221871"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095221871"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ff1d7d9f02220765ec4a"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Fish - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a649"
+  },
+  "correctChoice": "Fish",
+  "firstChoice": "Egg",
+  "secondChoice": "Meat",
+  "thirdChoice": "Beef",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783773330"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783773330"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ffae7d9f02220765ecd2"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Egg - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dd67"
+  },
+  "correctChoice": "Egg",
+  "firstChoice": "Meat",
+  "secondChoice": "Beef",
+  "thirdChoice": "Chicken",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783918667"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783918667"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a201337d9f02220765ee02"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Cook (Verb) - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa6e"
+  },
+  "correctChoice": "Cook",
+  "firstChoice": "Boil",
+  "secondChoice": "Dry",
+  "thirdChoice": "Prepare",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784307471"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784307471"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20bff7d9f02220765f27d"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Heat - FILL_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bc21"
+  },
+  "correctChoice": "Heat",
+  "firstChoice": "Cook",
+  "secondChoice": "Boil",
+  "thirdChoice": "Dry",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787071742"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787071742"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2104a7d9f02220765f62d"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Chop - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6df"
+  },
+  "correctChoice": "Slice",
+  "firstChoice": "Mix",
+  "secondChoice": "Bake",
+  "thirdChoice": "Fry",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788170308"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788170308"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218c34a59a53340fa65df"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Mix - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b973"
+  },
+  "correctChoice": "Mix",
+  "firstChoice": "Bake",
+  "secondChoice": "Fry",
+  "thirdChoice": "Chop",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790339549"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790339549"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45a26a99c39206b633270"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Gorgeous - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4db35"
+  },
+  "correctChoice": "Gorgeous",
+  "firstChoice": "Sexy",
+  "secondChoice": "Appearance",
+  "thirdChoice": "Beautiful",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938150977"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938150977"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45e67a99c39206b633641"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Cute - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da19"
+  },
+  "correctChoice": "Cute",
+  "firstChoice": "Old",
+  "secondChoice": "Young",
+  "thirdChoice": "Ugly",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939239019"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939239019"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46159a99c39206b633992"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Hair - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cd2a"
+  },
+  "correctChoice": "Hair",
+  "firstChoice": "Long",
+  "secondChoice": "Short",
+  "thirdChoice": "Curly",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939993386"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939993386"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a465a1a99c39206b633b6a"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Short - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "correctChoice": "Short",
+  "firstChoice": "Curly",
+  "secondChoice": "Straight",
+  "thirdChoice": "Hair",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941089207"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941089207"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a468daa99c39206b633f0c"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Face - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4afb7"
+  },
+  "correctChoice": "Face",
+  "firstChoice": "Eye",
+  "secondChoice": "Ear",
+  "thirdChoice": "Head",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941914038"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941914038"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46bf1a99c39206b6342ac"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Cheek - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d575"
+  },
+  "correctChoice": "Cheek",
+  "firstChoice": "Tongue",
+  "secondChoice": "Lip",
+  "thirdChoice": "Mouth",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942804617"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942705268"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46d1ba99c39206b634415"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Mouth - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba6d"
+  },
+  "correctChoice": "Mouth",
+  "firstChoice": "Lip",
+  "secondChoice": "Cheek",
+  "thirdChoice": "Tongue",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943003239"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943003239"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dda801bbad00e735b88e"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Shoulder - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a5"
+  },
+  "correctChoice": "Shoulder",
+  "firstChoice": "Arm",
+  "secondChoice": "Elbow",
+  "thirdChoice": "Wrist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104373537"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102888872"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e56001bbad00e735bfcc"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Hand - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4baa6"
+  },
+  "correctChoice": "Hand",
+  "firstChoice": "Back",
+  "secondChoice": "Waist",
+  "thirdChoice": "Chest",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104864495"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104864495"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f3c301bbad00e735d0fd"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Hat - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfb9"
+  },
+  "correctChoice": "Hat",
+  "firstChoice": "Belt",
+  "secondChoice": "Shoe",
+  "thirdChoice": "Coat",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108547544"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108547544"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f57201bbad00e735d2d1"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Shoe - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c81a"
+  },
+  "correctChoice": "Shoe",
+  "firstChoice": "Coat ",
+  "secondChoice": "Glove",
+  "thirdChoice": "Hat",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108978330"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108978330"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289abbb415292f0ec9bc0e6"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Doctor - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfcb"
+  },
+  "correctChoice": "Doctor",
+  "firstChoice": "Engineer",
+  "secondChoice": "Pilot",
+  "thirdChoice": "Nurse",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189563043"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189563043"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d5dc415292f0ec9bc746"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Scientist - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cee5"
+  },
+  "correctChoice": "Scientist",
+  "firstChoice": "Principal",
+  "secondChoice": "Journalist",
+  "thirdChoice": "Driver",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200348779"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200348779"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297799dec3daf580812a6df"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Vegetable - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c428"
+  },
+  "correctChoice": "Vegetables",
+  "firstChoice": "Carrots",
+  "secondChoice": "Onion",
+  "thirdChoice": "Potato",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094237445"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094237445"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977c88ec3daf580812a8be"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Onion - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba8d"
+  },
+  "correctChoice": "Onion",
+  "firstChoice": "Potato",
+  "secondChoice": "Pepper",
+  "thirdChoice": "Vegetable",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094984162"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094984162"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16e9a88e4f1334eb14b1a"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Meat _ RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ccdf"
+  },
+  "correctChoice": "Meat",
+  "firstChoice": "Beef",
+  "secondChoice": "Chicken",
+  "thirdChoice": "Fish",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746778624"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746778624"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fd537d9f02220765ea7f"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Beef - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2ee"
+  },
+  "correctChoice": "Beef",
+  "firstChoice": "Chicken",
+  "secondChoice": "Fish",
+  "thirdChoice": "Egg",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783315888"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783315888"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203fa7d9f02220765f016"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Dry - FILL_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ce45"
+  },
+  "correctChoice": "Dry",
+  "firstChoice": "Prepare",
+  "secondChoice": "Heat",
+  "thirdChoice": "Cook",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654785018029"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654785018029"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20aed7d9f02220765f19b"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Prepare - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa9c"
+  },
+  "correctChoice": "Prepare",
+  "firstChoice": "Heat",
+  "secondChoice": "Cook",
+  "thirdChoice": "Boil",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786797397"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786797397"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a221a9b2058921d3746d46"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Tall - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b04b"
+  },
+  "correctChoice": "Tall",
+  "firstChoice": "Short",
+  "secondChoice": "Height",
+  "thirdChoice": "Thin",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792617292"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792617292"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22287b2058921d3746e15"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Short - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "correctChoice": "Short",
+  "firstChoice": "Height",
+  "secondChoice": "Thin",
+  "thirdChoice": "Weight",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792839115"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792839115"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22cb4b2058921d374723f"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Heavy - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b4e6"
+  },
+  "correctChoice": "Heavy",
+  "firstChoice": "Light",
+  "secondChoice": "Slight",
+  "thirdChoice": "Slight",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795579998"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795444894"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a231ddb2058921d3747576"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Slight - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cf3c"
+  },
+  "correctChoice": "Slight",
+  "firstChoice": "Short",
+  "secondChoice": "Strong",
+  "thirdChoice": "Heavy",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796765924"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796765924"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f7ca99c39206b63378b"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Old - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cba0"
+  },
+  "correctChoice": "Old",
+  "firstChoice": "Young",
+  "secondChoice": "Ugly",
+  "thirdChoice": "Attractive",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939516163"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939516163"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4643ea99c39206b633a82"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Long - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a0"
+  },
+  "correctChoice": "Long",
+  "firstChoice": "Short",
+  "secondChoice": "Curly",
+  "thirdChoice": "Straight",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940734972"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940734972"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46691a99c39206b633c54"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Curly - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d01b"
+  },
+  "correctChoice": "Curly",
+  "firstChoice": "Straight",
+  "secondChoice": "Short",
+  "thirdChoice": "Long",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941329498"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941329498"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46813a99c39206b633e24"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Head - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a387"
+  },
+  "correctChoice": "Head",
+  "firstChoice": "Face",
+  "secondChoice": "Eye",
+  "thirdChoice": "Ear",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941715687"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941715687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46981a99c39206b633ff4"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Eye - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4be75"
+  },
+  "correctChoice": "Eye",
+  "firstChoice": "Head",
+  "secondChoice": "Face",
+  "thirdChoice": "Ear",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942081182"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942081182"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46f22a99c39206b6346b1"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tongue - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a4c6"
+  },
+  "correctChoice": "Tongue",
+  "firstChoice": "Cheek",
+  "secondChoice": "Mouth",
+  "thirdChoice": "Lip",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943522132"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943522132"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46fd4a99c39206b634799"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tooth - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af1f"
+  },
+  "correctChoice": "Tooth",
+  "firstChoice": "Tongue",
+  "secondChoice": "Lip",
+  "thirdChoice": "Cheek",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943700598"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943700598"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e47501bbad00e735bee0"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Wrist - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad3f"
+  },
+  "correctChoice": "Wrist",
+  "firstChoice": "Neck",
+  "secondChoice": "Shoulder",
+  "thirdChoice": "Arm",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104629301"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104629301"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e70601bbad00e735c1cb"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Chest - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c25c"
+  },
+  "correctChoice": "Chest",
+  "firstChoice": "Waist",
+  "secondChoice": "Finger",
+  "thirdChoice": "Back",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105286211"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105286211"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ea4c01bbad00e735c66d"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Knee - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac83"
+  },
+  "correctChoice": "Knee",
+  "firstChoice": "Foot",
+  "secondChoice": "Heel",
+  "thirdChoice": "Hip",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106124355"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106124355"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef4e01bbad00e735ccff"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Pants - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d39d"
+  },
+  "correctChoice": "Pants",
+  "firstChoice": "Dress",
+  "secondChoice": "Clothes",
+  "thirdChoice": "Shirt",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107406593"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107406593"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eff501bbad00e735cdb9"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Dress - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b951"
+  },
+  "correctChoice": "Dress",
+  "firstChoice": "Clothes",
+  "secondChoice": "Shirt",
+  "thirdChoice": "Skirt",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107573274"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107573274"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f2de01bbad00e735cfe5"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Glove - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2de"
+  },
+  "correctChoice": "Gloves",
+  "firstChoice": "Hats",
+  "secondChoice": "Belts",
+  "thirdChoice": "Shoes",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108318664"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108318664"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f4bc01bbad00e735d1e5"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Belt - RIGHT_WORD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a678"
+  },
+  "correctChoice": "Belt",
+  "firstChoice": "Shoe",
+  "secondChoice": "Coat ",
+  "thirdChoice": "Glove",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108796051"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108796051"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca5782552872f3cce6f58b"
+  },
+  "lessonId": {
+    "$oid": "62c95915cc5312e4b62cf433"
+  },
+  "name": "Doctor - FLASHCARD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfcb"
+  },
+  "correctChoice": "Bác sĩ",
+  "firstChoice": "Phi công ",
+  "secondChoice": "Kĩ sư ",
+  "thirdChoice": "Y tá",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1657428349805"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657427842568"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca5b0bd9d2d084bdd3cc4f"
+  },
+  "lessonId": {
+    "$oid": "62c95915cc5312e4b62cf433"
+  },
+  "name": "Lawyer - FLASHCARD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cda7"
+  },
+  "correctChoice": "Luật sư",
+  "firstChoice": "Đầu bếp",
+  "secondChoice": "Giám đốc",
+  "thirdChoice": "Giáo viên",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1657428747271"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657428747271"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca5b8dd9d2d084bdd3cc89"
+  },
+  "lessonId": {
+    "$oid": "62c95915cc5312e4b62cf433"
+  },
+  "name": "Teacher - FLASHCARD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da00"
+  },
+  "correctChoice": "Giáo viên",
+  "firstChoice": "Luật sư",
+  "secondChoice": "Đầu bếp",
+  "thirdChoice": "Nông dân",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1657428877606"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657428877606"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca5bcad9d2d084bdd3ccbd"
+  },
+  "lessonId": {
+    "$oid": "62c95915cc5312e4b62cf433"
+  },
+  "name": "Cook - FLASHCARD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8a3"
+  },
+  "correctChoice": "Đầu bếp",
+  "firstChoice": "Giáo viên",
+  "secondChoice": "Nông dân",
+  "thirdChoice": "Luật sư",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1657428938214"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657428938214"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca5bf7d9d2d084bdd3ccf1"
+  },
+  "lessonId": {
+    "$oid": "62c95915cc5312e4b62cf433"
+  },
+  "name": "Farmer - FLASHCARD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8f9"
+  },
+  "correctChoice": "Nông dân",
+  "firstChoice": "Đầu bếp",
+  "secondChoice": "Giáo viên",
+  "thirdChoice": "Luật sư",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1657428983760"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657428983760"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62ca5c2bd9d2d084bdd3cd25"
+  },
+  "lessonId": {
+    "$oid": "62c95915cc5312e4b62cf433"
+  },
+  "name": "Director - FLASHCARD",
+  "type": "RIGHT_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b28b"
+  },
+  "correctChoice": "Giám đốc",
+  "firstChoice": "Nông dân",
+  "secondChoice": "Đầu bếp",
+  "thirdChoice": "Giáo viên",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1657429035760"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1657429035760"
+    }
+  }
+}]

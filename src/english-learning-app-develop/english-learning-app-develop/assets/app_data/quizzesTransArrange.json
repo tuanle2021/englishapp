@@ -1,0 +1,3147 @@
+[{
+  "_id": {
+    "$oid": "62891d6951339e2b5e9a2158"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cda7"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Lawyer - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "My father is a lawyer ",
+  "viSentence": "Bố của tôi là một luật sư ",
+  "viPhrase": [
+    "Bố",
+    "của tôi",
+    "là",
+    "một",
+    "luật sư",
+    "giống",
+    "bảo vệ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653153326497"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653153129995"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628998379606ac423b9da413"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da00"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Teacher - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "My teacher is sleeping",
+  "viSentence": "Giáo viên của tôi đang ngủ",
+  "viPhrase": [
+    "Giáo viên",
+    "của",
+    "tôi",
+    "đang ",
+    "ngủ",
+    "là",
+    "bác sĩ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184567794"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184567794"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899cf19606ac423b9da62f"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8a3"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Cook - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Gorden Ramsay is a famous cook ",
+  "viSentence": "Gorden Ramsay là một đầu bếp nổi tiếng ",
+  "viPhrase": [
+    "Gorden Ramsay",
+    "là",
+    "một",
+    "đầu bếp",
+    "nổi tiếng",
+    "trưởng phòng",
+    "nấu"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653185777185"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653185777185"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899ee69606ac423b9da6e6"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8f9"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Farmer - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "He loves being a farmer",
+  "viSentence": "Anh ấy thích làm nông dân",
+  "viPhrase": [
+    "Anh ấy",
+    "thích",
+    "làm",
+    "nông dân",
+    "giáo viên",
+    "đồng"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186278366"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186278366"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a07e9606ac423b9da787"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b28b"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Director - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "The director is very generous ",
+  "viSentence": "Giám đốc rất hào phóng",
+  "viPhrase": [
+    "Giám đốc",
+    "rất",
+    "hào phóng",
+    "trưởng phòng",
+    "với"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186686527"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186686527"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a2ad9606ac423b9da85c"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfcb"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Doctor - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I would like to make an appointment to see the doctor ",
+  "viSentence": "Tôi muốn đặt lịch hẹn để gặp bác sĩ ",
+  "viPhrase": [
+    "Tôi",
+    "muốn",
+    "đặt",
+    "lịch hẹn",
+    "để",
+    "gặp",
+    "bác sĩ",
+    "thời gian",
+    "giám đốc"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 7,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653187245130"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653187245130"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289ac99415292f0ec9bc146"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c31b"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Engineer - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I want to become an engineer ",
+  "viSentence": "Tôi muốn trở thành một kỹ sư ",
+  "viPhrase": [
+    "Tôi",
+    "muốn",
+    "trở thành",
+    "một",
+    "kỹ sư",
+    "đấu tranh",
+    "hạnh phúc"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189785836"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189785836"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289cfda415292f0ec9bc26f"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8fc"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Pilot - TRAN_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "The pilot landed the plane safely",
+  "viSentence": "Phi công đã hạ cánh máy bay an toàn",
+  "viPhrase": [
+    "Phi công",
+    "đã",
+    "hạ cánh",
+    "máy bay",
+    "an toàn",
+    "bơi",
+    "chim"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198810033"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198810033"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d0db415292f0ec9bc38d"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b085"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Nurse - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "She works as a nurse in the local hospital ",
+  "viSentence": "Cô ấy làm y tá ở bệnh viện địa phương",
+  "viPhrase": [
+    "Cô ấy",
+    "làm",
+    "y tá ",
+    "ở",
+    "bệnh viện",
+    "địa phương",
+    "học tập",
+    "vui vẻ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 6,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199067035"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199067035"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d25f415292f0ec9bc480"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dce0"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Driver - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "My dad is an excellent driver ",
+  "viSentence": "Bố tôi là một tài xế xuất sắc ",
+  "viPhrase": [
+    "Bố tôi",
+    "là",
+    "một",
+    "tài xế",
+    "xuất sắc ",
+    "đi",
+    "thợ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199455299"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199455299"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d380415292f0ec9bc55b"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b3c9"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Journalist - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "The journalist always smiles politely ",
+  "viSentence": "Nhà báo luôn nở nụ cười lịch sự ",
+  "viPhrase": [
+    "Nhà báo",
+    "luôn",
+    "nở nụ cười",
+    "lịch sự ",
+    "khách",
+    "thợ lặn"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199744499"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199744499"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d4ca415292f0ec9bc63b"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cee5"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Scientist - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "We need a scientist ",
+  "viSentence": "Chúng ta cần một nhà khoa học ",
+  "viPhrase": [
+    "Chúng ta",
+    "cần",
+    "một",
+    "nhà khoa học",
+    "tài xế",
+    "buồn"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200074795"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200074795"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d67a415292f0ec9bc777"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b05e"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Principal - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "The principal of the university is an important position ",
+  "viSentence": "Hiệu trưởng của trường đại học là một vị trí quan trọng ",
+  "viPhrase": [
+    "Hiệu trưởng",
+    "của",
+    "trường đại học",
+    "là",
+    "một",
+    "vị trí",
+    "quan trọng ",
+    "giáo viên",
+    "lớn"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 7,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200506043"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200506043"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297476eec3daf580812a131"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c731"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Apple - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I don't like apple ",
+  "viSentence": "Tôi không thích táo ",
+  "viPhrase": [
+    "tôi",
+    "không",
+    "thích",
+    "táo",
+    "xin chào",
+    "là"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654081390501"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654081390501"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297752dec3daf580812a4c0"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d5fb"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Lemon - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I like to drink tea with lemon",
+  "viSentence": "Tôi thích uống trà với chanh ",
+  "viPhrase": [
+    "Tôi",
+    "thích",
+    "uống",
+    "trà",
+    "với",
+    "chanh",
+    "chuối",
+    "bay"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 6,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093101024"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093101024"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977919ec3daf580812a665"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c428"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Vegetable - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I love eating vegetables",
+  "viSentence": "Tôi thích ăn rau quả",
+  "viPhrase": [
+    "Tôi",
+    "thích",
+    "ăn",
+    "rau quả",
+    "hợp lý",
+    "khăn"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094105881"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094105881"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977a4aec3daf580812a73e"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c536"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Carrot - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "We have carrot for lunch",
+  "viSentence": "Chúng tôi có cà rốt cho bữa trưa",
+  "viPhrase": [
+    "Chúng tôi",
+    "có",
+    " cà rốt",
+    "cho",
+    "bữa trưa",
+    "học hành",
+    "vui vẻ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094410717"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094410717"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977bd5ec3daf580812a814"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba8d"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Onion - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I hate onion",
+  "viSentence": "Tôi ghét hành tây",
+  "viPhrase": [
+    "Tôi",
+    "ghét",
+    "hành tây",
+    "cà rốt",
+    "buồn"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094805989"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094805989"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977ce6ec3daf580812a8eb"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae98"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Potato - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I peel a potato",
+  "viSentence": "Tôi gọt vỏ một củ khoai tây",
+  "viPhrase": [
+    "Tôi",
+    "gọt vỏ",
+    "một củ",
+    "khoai tây",
+    "đường đột",
+    "xa"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095078881"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095078881"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977de0ec3daf580812a9c4"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c0ac"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Pepper - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I want a little more pepper",
+  "viSentence": "Tôi muốn thêm một ít tiêu.",
+  "viPhrase": [
+    "Tôi",
+    "muốn",
+    "thêm",
+    "một ít",
+    "tiêu",
+    "hăng hái",
+    "dâu"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095363080"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095328822"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16dd988e4f1334eb14a70"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ccdf"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Meat _ TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Meat and potatoes",
+  "viSentence": "Thịt và khoai tây",
+  "viPhrase": [
+    "thịt",
+    "và",
+    "khoai tây",
+    "rau củ",
+    "chanh"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746585917"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746585917"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fc897d9f02220765e9d5"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2ee"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Beef - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Tom doesn't like beef",
+  "viSentence": "Tom không thích thịt bò",
+  "viPhrase": [
+    "Tom ",
+    "không thích",
+    "thịt bò",
+    "học hành",
+    "vui vẻ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783113149"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783113149"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fdd57d9f02220765eaba"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d516"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Chicken - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Do you like chicken or beef?",
+  "viSentence": "Bạn thích thịt gà hay thịt bò",
+  "viPhrase": [
+    "bạn",
+    "thích",
+    "thịt gà",
+    "hay thịt bò",
+    "bơi",
+    "chìm"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783615605"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783445156"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fec77d9f02220765ebd1"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a649"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Fish - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "A big fish",
+  "viSentence": "Một con cá lớn",
+  "viPhrase": [
+    "một",
+    "con cá",
+    "lớn",
+    "sấy",
+    "học"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783687313"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783687313"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ff837d9f02220765ecaa"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dd67"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Egg - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "A chicken egg",
+  "viSentence": "Một quả trứng gà",
+  "viPhrase": [
+    "một",
+    "quả trứng",
+    "gà",
+    "cá",
+    "hồng"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783875880"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783875880"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2009d7d9f02220765ed89"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa6e"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Cook (Verb) - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I cook for myself",
+  "viSentence": "Tôi tự nấu ăn",
+  "viPhrase": [
+    "tôi",
+    "tự",
+    "nấu ăn",
+    "sáng",
+    "hoạt ngôn"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784157802"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784157802"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a201f57d9f02220765ee63"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b030"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Boil - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "My father boils a potato",
+  "viSentence": "Bố tôi luộc một củ khoai tây",
+  "viPhrase": [
+    "Bố tôi",
+    "luộc",
+    "một",
+    "củ khoai tây",
+    "học hành",
+    "vui vẻ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784501230"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784501230"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203247d9f02220765ef6d"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ce45"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Dry - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I dry carrots",
+  "viSentence": "Tôi sấy cà rốt",
+  "viPhrase": [
+    "Tôi",
+    "sấy",
+    "cà rốt",
+    "bơi",
+    "chìm"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784804248"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784804248"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20a5a7d9f02220765f0a4"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa9c"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Prepare - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I prepare the food",
+  "viSentence": "Tôi chuẩn bị thức ăn",
+  "viPhrase": [
+    "Tôi ",
+    "chuẩn bị",
+    "thức ăn",
+    "sấy",
+    "học"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786690421"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786650767"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20b2a7d9f02220765f1ca"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bc21"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Heat - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I heat the oil",
+  "viSentence": "Tôi làm nóng dầu",
+  "viPhrase": [
+    "Tôi",
+    "làm",
+    "nóng dầu",
+    "chia sẻ",
+    "mong đợi"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787039488"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786858808"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20c8c7d9f02220765f328"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d945"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Bake - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Bake an onion",
+  "viSentence": "Nướng một củ hành tây",
+  "viPhrase": [
+    "Nướng",
+    "một",
+    "củ hành tây",
+    "đồng hồ",
+    "ngủ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787212857"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787212857"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f197d9f02220765f4e5"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b9b3"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Fry - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I fry an egg",
+  "viSentence": "Tôi chiên một quả trứng",
+  "viPhrase": [
+    "tôi",
+    "chiên",
+    "một",
+    "quả trứng",
+    "siêu sao",
+    "muối"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787865402"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787865402"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20ff17d9f02220765f5b5"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6df"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Chop - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Chop an onion",
+  "viSentence": "Cắt một củ hành tây",
+  "viPhrase": [
+    "Cắt ",
+    "một",
+    "củ hành tây",
+    "hai",
+    "máy tính"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788081739"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788081739"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2178f4a59a53340fa64bf"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa4a"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Slice - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "slice a lemon",
+  "viSentence": "cắt lát một quả chanh",
+  "viPhrase": [
+    "cắt lát",
+    "một",
+    "quả chanh",
+    "đêm",
+    "đèn"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790031060"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790031060"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218804a59a53340fa658f"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b973"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Mix - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I mix the vegetables",
+  "viSentence": "Tôi trộn các loại rau củ",
+  "viPhrase": [
+    "Tôi",
+    "trộn",
+    "các loại rau củ",
+    "từ điển",
+    "ngữ pháp"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790272740"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790272740"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22145b2058921d3746cce"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b04b"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Tall - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "He is tall",
+  "viSentence": "Anh ấy cao",
+  "viPhrase": [
+    "Anh ",
+    "ấy",
+    "cao",
+    "một",
+    "đi"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792517177"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792517177"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22221b2058921d3746d9d"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Short - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "John is short",
+  "viSentence": "John thấp",
+  "viPhrase": [
+    "John",
+    "thấp",
+    "cây",
+    "trang"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 2,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792737140"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792737140"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a222eeb2058921d3746e70"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bffa"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Height - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "What is your height?",
+  "viSentence": "Chiều cao của bạn là bao nhiêu?",
+  "viPhrase": [
+    "Chiều cao",
+    "của bạn",
+    "là",
+    "bao nhiêu?",
+    "nặng",
+    "phim"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792942309"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792942309"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22399b2058921d3746f3f"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b410"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Thin - TRANS-ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "She looks thin",
+  "viSentence": "Cô ấy trông gầy",
+  "viPhrase": [
+    "Cô ấy",
+    "trông",
+    "gầy",
+    "mập mạp",
+    "buồn"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793113424"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793113424"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2243db2058921d3747010"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b217"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Weight - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "What is your weight?",
+  "viSentence": "Cân nặng của bạn là bao nhiêu?",
+  "viPhrase": [
+    "Cân nặng",
+    "của bạn",
+    "là",
+    "bao nhiêu?",
+    "cao",
+    "mệt"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793277076"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793277076"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22bbcb2058921d3747120"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ddd1"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Strong - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "She is strong",
+  "viSentence": "Cô ấy mạnh mẽ",
+  "viPhrase": [
+    "Cô ấy ",
+    "mạnh mẽ",
+    "cười",
+    "âm thanh"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 2,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795196874"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795196874"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22c71b2058921d37471ef"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b4e6"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Heavy - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "How heavy are you?",
+  "viSentence": "Bạn nặng bao nhiêu?",
+  "viPhrase": [
+    "Bạn",
+    "nặng ",
+    "bao nhiêu?",
+    "cao",
+    "mưa"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795377342"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795377342"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a23061b2058921d37473ac"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ab14"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Light - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "As light as a feather",
+  "viSentence": "Nhẹ tựa lông hồng",
+  "viPhrase": [
+    "Nhẹ",
+    "tựa",
+    "lông hồng",
+    "mạng",
+    "nóng"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796385973"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796385973"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a23183b2058921d37474ef"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cf3c"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Slight - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "a slight woman",
+  "viSentence": "một phụ nữ mảnh dẻ",
+  "viPhrase": [
+    "một",
+    "phụ nữ",
+    "mảnh dẻ",
+    "nặng",
+    "hoa"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796675214"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796675214"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a449e363fedf08b57cd400"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c031"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Appearance - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Describe your appearance",
+  "viSentence": "Miêu tả ngoại hình của bạn",
+  "viPhrase": [
+    "miêu tả",
+    "ngoại hình",
+    " của bạn",
+    "chia sẻ",
+    "học"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654933988011"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654933988011"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44b9363fedf08b57cd4f7"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a72f"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Beautiful - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "A beautiful girl",
+  "viSentence": "một cô gái đẹp",
+  "viPhrase": [
+    "một ",
+    "cô gái",
+    "đẹp",
+    "máy quạt",
+    "bầu trời"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934419710"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934419710"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45852a99c39206b63311f"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b965"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "pretty - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "a pretty child",
+  "viSentence": "một đứa trẻ xinh xắn",
+  "viPhrase": [
+    "một",
+    "đứa trẻ",
+    "xinh xắn",
+    "học hỏi",
+    "mưa"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937682227"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937682227"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a459b4a99c39206b6331e9"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4db35"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Gorgeous - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "You look gorgeous",
+  "viSentence": "Bạn trông thật lộng lẫy",
+  "viPhrase": [
+    "bạn",
+    "trông thật",
+    "lộng lẫy",
+    "hình tròn",
+    "hanh"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938036310"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938036310"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45b0aa99c39206b633301"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4df00"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Sexy - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "a sexy singer",
+  "viSentence": "một ca sĩ gợi cảm",
+  "viPhrase": [
+    "một",
+    "ca sĩ",
+    "gợi cảm",
+    "màu xanh",
+    "xinh"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938378689"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938378689"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45c1ca99c39206b6333e9"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c6be"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Ugly - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "He is not ugly",
+  "viSentence": "Anh ấy không xấu",
+  "viPhrase": [
+    "Anh ấy",
+    "không",
+    "xấu",
+    "hai",
+    "thơm"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938652243"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938652243"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45ceea99c39206b6334d1"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6dd"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Attractive - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "An attractive appearance",
+  "viSentence": "một ngoại hình hấp dẫn",
+  "viPhrase": [
+    "một",
+    "ngoại hình",
+    "hấp dẫn",
+    "ôm",
+    "nâu"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938862324"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938862324"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45de9a99c39206b6335b9"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da19"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Cute - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "a cute baby",
+  "viSentence": "một em bé dễ thương",
+  "viPhrase": [
+    "một",
+    "em bé",
+    "dễ thương",
+    "mơ mộng",
+    "cam"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939113047"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939113047"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f1fa99c39206b633704"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cba0"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Old - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "He looks old",
+  "viSentence": "Anh ấy trông già",
+  "viPhrase": [
+    "Anh ấy",
+    "trông",
+    "già",
+    "nhật",
+    "táo"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939423309"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939423309"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45fe5a99c39206b6337ec"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b30f"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Young - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "She is very young",
+  "viSentence": "Cô ấy rất trẻ",
+  "viPhrase": [
+    "Cô ấy",
+    "rất",
+    "trẻ",
+    "cam",
+    "xanh"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939641773"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939621879"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a460fea99c39206b63390b"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cd2a"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Hair -  TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I dye my hair",
+  "viSentence": "Tôi nhuộm tóc của mình",
+  "viPhrase": [
+    "Tôi ",
+    "nhuộm",
+    "tóc",
+    "của mình",
+    "trẻ",
+    "cô ấy"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939902155"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939902155"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a463daa99c39206b6339fb"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a0"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Long - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "She has long hair",
+  "viSentence": "Cô ấy có mái tóc dài",
+  "viPhrase": [
+    "Cô ấy",
+    "có ",
+    "mái tóc",
+    "dài",
+    "ngắn",
+    "áo"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940634755"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940634755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46511a99c39206b633ae3"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Short - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "He has short hair",
+  "viSentence": "Anh ấy có mái tóc ngắn",
+  "viPhrase": [
+    "Anh ấy",
+    "có ",
+    "mái tóc",
+    "ngắn",
+    "dữ liệu",
+    "chải"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940945310"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940945310"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46625a99c39206b633bcb"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d01b"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Curly - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "His hair is curly",
+  "viSentence": "Tóc anh ấy xoăn",
+  "viPhrase": [
+    "Tóc",
+    "anh ấy",
+    "xoăn",
+    "ngắn",
+    "đẹp"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941221316"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941221316"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46702a99c39206b633cb5"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b294"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Straight - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Her hair is straight",
+  "viSentence": "Tóc cô ấy thẳng",
+  "viPhrase": [
+    "Tóc ",
+    "cô ấy",
+    "thẳng",
+    "xoăn",
+    "anh ấy"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941442350"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941442350"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a467c7a99c39206b633d9d"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a387"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Head - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Nod your head",
+  "viSentence": "Gật đầu",
+  "viPhrase": [
+    "Gật ",
+    "đầu",
+    "một",
+    "đi"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 2,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941639441"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941639441"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46887a99c39206b633e85"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4afb7"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Face - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "A pretty face",
+  "viSentence": "Một khuôn mặt xinh xắn",
+  "viPhrase": [
+    "Một ",
+    "khuôn mặt",
+    "xinh xắn",
+    "bài học",
+    "hoa"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941831912"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941831912"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4693aa99c39206b633f6d"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4be75"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Eye - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Something is in my eye",
+  "viSentence": "có gì đó trong mắt tôi",
+  "viPhrase": [
+    "có gì đó",
+    "trong ",
+    "mắt ",
+    "tôi",
+    "mơ",
+    "đất"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942010358"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942010358"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a469dea99c39206b634055"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a360"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Ear - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "My left ear",
+  "viSentence": "Tai trái của tôi",
+  "viPhrase": [
+    "Tai",
+    "trái",
+    "của tôi",
+    "mắt",
+    "xinh"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942174348"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942174348"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46acba99c39206b63413d"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b415"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Nose - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "He has a long nose",
+  "viSentence": "Anh ấy có một chiếc mũi dài",
+  "viPhrase": [
+    "Anh ấy",
+    "có",
+    "một",
+    "chiếc mũi",
+    "dài",
+    "tai",
+    "mắt"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942411285"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942411285"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46b91a99c39206b634225"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d575"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Cheek - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "touch your cheek, please",
+  "viSentence": "Vui lòng chạm vào má của bạn",
+  "viPhrase": [
+    "Vui lòng",
+    "chạm vào",
+    "má",
+    "của bạn",
+    "một",
+    "tai"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942609546"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942609546"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46cc2a99c39206b63438e"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba6d"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Mouth - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "open your mouth, please",
+  "viSentence": "Vui lòng há miệng ra",
+  "viPhrase": [
+    "vui lòng",
+    "há",
+    "miệng",
+    "ra",
+    "đôi môi",
+    "có"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942914234"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942914234"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46d82a99c39206b634476"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a52b"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Lip - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I have thin lips",
+  "viSentence": "Tôi có đôi môi mỏng",
+  "viPhrase": [
+    "Tôi",
+    "có",
+    "đôi môi",
+    "mỏng",
+    "ngắn",
+    "răng"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943106934"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943106934"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46e4ba99c39206b634583"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a4c6"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tongue - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "My tongue hurts",
+  "viSentence": "Lưỡi của tôi đau",
+  "viPhrase": [
+    "Lưỡi",
+    "của tô",
+    "đau",
+    "môi",
+    "xinh"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943307111"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943307111"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46f87a99c39206b634712"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af1f"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tooth - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "my first tooth",
+  "viSentence": "Chiếc răng đầu tiên của tôi",
+  "viPhrase": [
+    "Chiếc răng",
+    "đầu tiên",
+    "của tôi",
+    "mặt",
+    "môi"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943623310"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943623310"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dc3e01bbad00e735b6c7"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b837"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Neck - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "He has a short neck",
+  "viSentence": "Anh ấy có một cái cổ ngắn",
+  "viPhrase": [
+    "Anh ấy",
+    "có",
+    "một",
+    "cái",
+    "cổ",
+    "ngắn",
+    "dài",
+    "răng"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 6,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104341759"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102526309"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dd4b01bbad00e735b807"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a5"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Shoulder - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I touch her shoulder",
+  "viSentence": "Tôi chạm vào vai của cô ấy",
+  "viPhrase": [
+    "Tôi",
+    "chạm vào",
+    "vai",
+    "của cô ấy",
+    "tóc",
+    "má"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104378793"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102795140"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e1c701bbad00e735b8ef"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac0c"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Arm - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I touch his arm",
+  "viSentence": "Tôi chạm vào cánh tay của anh ấy",
+  "viPhrase": [
+    "Tôi",
+    "chạm vào",
+    "cánh tay",
+    "của anh ấy",
+    "vai",
+    "không khí"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104414288"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655103943189"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e27d01bbad00e735b9d7"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b91e"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Elbow - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Elbow is a part of arm",
+  "viSentence": "Khuỷu tay là một phần của cánh tay",
+  "viPhrase": [
+    "Khuỷu tay",
+    "là",
+    "một",
+    "phần",
+    "của",
+    "cánh tay",
+    "cổ",
+    "học tập"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 6,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104442494"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104125688"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e42701bbad00e735be59"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad3f"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Wrist - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Tom hurts my wrist",
+  "viSentence": "Tom làm đau cổ tay của tôi",
+  "viPhrase": [
+    "Tom",
+    "làm đau",
+    "cổ tay",
+    "của tôi",
+    "tay",
+    "cổ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104551640"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104551640"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e4fb01bbad00e735bf45"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4baa6"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Hand - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "John has a strong hand",
+  "viSentence": "John có một bàn tay mạnh mẽ",
+  "viPhrase": [
+    "John",
+    "có",
+    "một",
+    "bàn tay",
+    "mạnh mẽ",
+    "ngón tay",
+    "mọng"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104763357"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104763357"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e5b701bbad00e735c031"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a835"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Finger - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "with just one finger",
+  "viSentence": "chỉ với một ngón tay",
+  "viPhrase": [
+    "chỉ",
+    "với",
+    "một",
+    "ngón tay",
+    "bàn tay",
+    "dương"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104951119"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104951119"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e69901bbad00e735c11a"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c25c"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": " Chest - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "His chest hurts",
+  "viSentence": "Ngực của anh ấy đau",
+  "viPhrase": [
+    "Ngực",
+    "của anh ấy ",
+    "đau",
+    "Lưng",
+    "chia sẻ"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105178000"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105178000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e76d01bbad00e735c250"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad18"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Waist - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Put an arm around the waist",
+  "viSentence": "Vòng tay qua eo",
+  "viPhrase": [
+    "vòng",
+    "tay",
+    " qua",
+    "eo",
+    "cổ",
+    "đặt"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105389383"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105389383"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e84101bbad00e735c367"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae45"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Hip - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Put hand on the hip",
+  "viSentence": "Đặt tay lên hông",
+  "viPhrase": [
+    "Đặt ",
+    "tay",
+    "lên",
+    "hông",
+    "một",
+    "đi"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105601938"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105601938"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e90c01bbad00e735c47e"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a9ab"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Leg - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "My legs are long",
+  "viSentence": "Chân của tôi dài",
+  "viPhrase": [
+    "Chân",
+    "của tôi",
+    "dài",
+    "hông",
+    "cô ây"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105804940"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105804940"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e9d801bbad00e735c5b8"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac83"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Knee - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I have a knee injury",
+  "viSentence": "Tôi bị chấn thương đầu gối",
+  "viPhrase": [
+    "Tôi",
+    "bị",
+    "chấn thương",
+    "đầu gối",
+    "chân",
+    "hỏi"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106008474"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106008474"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eaa301bbad00e735c6a0"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bd9c"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Foot - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "a baby's pretty foot",
+  "viSentence": "một bàn chân xinh xắn của em bé",
+  "viPhrase": [
+    "Một",
+    "bàn chân",
+    "xinh xắn",
+    "của",
+    "em bé",
+    "tóc",
+    "lộng lẫy"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106211168"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106211168"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ebad01bbad00e735c794"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af60"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Heel - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "She turns on her heel",
+  "viSentence": "Cô ấy quay gót chân",
+  "viPhrase": [
+    "Cô ấy",
+    "quay",
+    "gót chân",
+    "tay",
+    "bật"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106477085"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106477085"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eccc01bbad00e735c911"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b0ab"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Clothes - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I buy new clothes",
+  "viSentence": "Tôi mua quần áo mới",
+  "viPhrase": [
+    "Tôi",
+    "mua",
+    "quần áo",
+    "mới",
+    "giây",
+    "váy"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106764721"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106764721"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ed7d01bbad00e735ca29"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d6c5"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Shirt - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I wear a shirt",
+  "viSentence": "Tôi mặc một chiếc áo sơ mi",
+  "viPhrase": [
+    "Tôi",
+    "mặc",
+    "một chiếc",
+    "áo sơ mi",
+    "vải",
+    "váy"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106941991"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106941991"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ee4701bbad00e735cb62"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8f7"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Skirt - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "She has two skirts",
+  "viSentence": "Cô ấy có hai chiếc váy",
+  "viPhrase": [
+    "Cô ấy",
+    "có",
+    "hai chiếc",
+    "váy",
+    "tay",
+    "áo"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107143444"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107143444"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eee601bbad00e735cc4a"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d39d"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Pants - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "He wears pants",
+  "viSentence": "Anh ấy mặc quần dài",
+  "viPhrase": [
+    "Anh ấy",
+    "mặc",
+    "quần dài",
+    "váy",
+    "áo"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107302116"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107302116"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef8301bbad00e735cd32"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b951"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Dress - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "I always wear dress.",
+  "viSentence": "Tôi luôn mặc đầm",
+  "viPhrase": [
+    "tôi",
+    "luôn",
+    "mặc",
+    "đầm",
+    "chân",
+    "mua"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107459739"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107459739"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f1a501bbad00e735ce47"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c2e6"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Coat - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "A man in a long coat",
+  "viSentence": "Người đàn ông mặc áo khoác dài",
+  "viPhrase": [
+    "Một",
+    "người",
+    "đàn ông",
+    "mặc",
+    "áo khoác",
+    "dài",
+    "một",
+    "đi"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 6,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108005701"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108005701"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f26201bbad00e735cf30"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2de"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Glove - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "A pair of gloves",
+  "viSentence": "Một đôi găng tay",
+  "viPhrase": [
+    "Một ",
+    "đôi",
+    "găng tay",
+    "vớ",
+    "giày",
+    ""
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 3,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108194020"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108194020"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f38101bbad00e735d076"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfb9"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Hat - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "Woman with a hat",
+  "viSentence": "Người phụ nữ với chiếc mũ",
+  "viPhrase": [
+    "Người",
+    "phụ nữ",
+    "với",
+    "chiếc",
+    "mũ",
+    "găng",
+    "ông"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108481971"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108481971"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f45b01bbad00e735d15e"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a678"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Belt - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "A belt around the waist",
+  "viSentence": "Một chiếc thắt lưng quanh eo",
+  "viPhrase": [
+    "Một",
+    "chiếc",
+    "thắt lưng",
+    "quanh",
+    "eo",
+    "mũ",
+    "đầu"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 5,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108699996"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108699996"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f51f01bbad00e735d24a"
+  },
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c81a"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Shoe - TRANS_ARRANGE",
+  "type": "TRANS_ARRANGE",
+  "originSentence": "What's your shoe size?",
+  "viSentence": "Cỡ giày của bạn là bao nhiêu?",
+  "viPhrase": [
+    "Cỡ giày",
+    "của bạn",
+    "là",
+    "bao nhiêu ?",
+    "tóc",
+    "quần áo"
+  ],
+  "isDeleted": false,
+  "numRightPhrase": 4,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108895385"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108895385"
+    }
+  }
+}]

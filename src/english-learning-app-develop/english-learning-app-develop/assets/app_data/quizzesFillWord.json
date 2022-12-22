@@ -1,0 +1,2791 @@
+[{
+  "_id": {
+    "$oid": "6289931e4dcca1074a5661a2"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Lawyer - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cda7"
+  },
+  "leftOfWord": "My father is a",
+  "rightOfWord": "",
+  "viSentence": "Bố tôi là một luật sư",
+  "correctChoice": "lawyer",
+  "firstChoice": "cook",
+  "secondChoice": "director",
+  "thirdChoice": "teacher",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653183262401"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653183262401"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628998c69606ac423b9da462"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Teacher - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da00"
+  },
+  "leftOfWord": "My",
+  "rightOfWord": "is sleeping",
+  "viSentence": "Giáo viên của tôi đang ngủ",
+  "correctChoice": "teacher",
+  "firstChoice": "lawyer",
+  "secondChoice": "cook",
+  "thirdChoice": "farmer",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184710352"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184710352"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899d439606ac423b9da659"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Cook - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8a3"
+  },
+  "leftOfWord": "Gorden Ramsay is a famous",
+  "rightOfWord": "",
+  "viSentence": "Gorden Ramsay là một đầu bếp nổi tiếng ",
+  "correctChoice": "cook",
+  "firstChoice": "teacher",
+  "secondChoice": "farmer",
+  "thirdChoice": "lawyer",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653185859883"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653185859883"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899f319606ac423b9da700"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Farmer - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8f9"
+  },
+  "leftOfWord": "He loves being a",
+  "rightOfWord": "",
+  "viSentence": "Anh ấy thích làm nông dân ",
+  "correctChoice": "Farmer",
+  "firstChoice": "Teacher",
+  "secondChoice": "Cook",
+  "thirdChoice": "Director",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186353693"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186353693"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a0c39606ac423b9da7a1"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Director - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b28b"
+  },
+  "leftOfWord": "The",
+  "rightOfWord": "is very generous",
+  "viSentence": "Giám đốc rất hào phóng ",
+  "correctChoice": "director",
+  "firstChoice": "farmer",
+  "secondChoice": "cook",
+  "thirdChoice": "teacher",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186755512"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186755512"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a3079606ac423b9da876"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Doctor - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfcb"
+  },
+  "leftOfWord": "I would like to make an appointment to see the",
+  "rightOfWord": "",
+  "viSentence": "Tôi muốn đặt lịch hẹn để gặp bác sĩ ",
+  "correctChoice": "doctor",
+  "firstChoice": "engineer",
+  "secondChoice": "pilot",
+  "thirdChoice": "nurse",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653187335083"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653187335083"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289acda415292f0ec9bc16e"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Engineer - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c31b"
+  },
+  "leftOfWord": "I want to become an",
+  "rightOfWord": "",
+  "viSentence": "Tôi muốn trở thành một kỹ sư ",
+  "correctChoice": "engineer",
+  "firstChoice": "doctor",
+  "secondChoice": "pilot",
+  "thirdChoice": "dentist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189850777"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189850777"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d010415292f0ec9bc297"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Pilot - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8fc"
+  },
+  "leftOfWord": "The",
+  "rightOfWord": "landed the plane safely",
+  "viSentence": "Phi công đã hạ cánh máy bay an toàn ",
+  "correctChoice": "pilot",
+  "firstChoice": "engineer",
+  "secondChoice": "nurse",
+  "thirdChoice": "dentist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198864562"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198864562"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d10d415292f0ec9bc3b5"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Nurse - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b085"
+  },
+  "leftOfWord": "She works as a ",
+  "rightOfWord": "in the local hospital",
+  "viSentence": "Cô ấy làm y tá ở bệnh viện địa phương ",
+  "correctChoice": "nurse",
+  "firstChoice": "engineer",
+  "secondChoice": "doctor",
+  "thirdChoice": "dentist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199117920"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199117920"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d2b2415292f0ec9bc4a8"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Driver - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dce0"
+  },
+  "leftOfWord": "My dad is an excellent",
+  "rightOfWord": "",
+  "viSentence": "Bố tôi là một tài xế xuất sắc ",
+  "correctChoice": "driver",
+  "firstChoice": "journalist",
+  "secondChoice": "singer",
+  "thirdChoice": "scientist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199538913"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199538913"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d3ce415292f0ec9bc5ab"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Journalist - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b3c9"
+  },
+  "leftOfWord": "The",
+  "rightOfWord": "always smiles politely",
+  "viSentence": "Nhà báo luôn nở nụ cười lịch sự ",
+  "correctChoice": "journalist",
+  "firstChoice": "driver",
+  "secondChoice": "plumber",
+  "thirdChoice": "hairdresser",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199822914"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199822914"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d4fc415292f0ec9bc663"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Scientist - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cee5"
+  },
+  "leftOfWord": "We need an",
+  "rightOfWord": "",
+  "viSentence": "Chúng ta cần một nhà khoa học ",
+  "correctChoice": "scientist",
+  "firstChoice": "principal",
+  "secondChoice": "journalist",
+  "thirdChoice": "driver",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200124175"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200124175"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d6d4415292f0ec9bc7bc"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Principal - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b05e"
+  },
+  "leftOfWord": "The ",
+  "rightOfWord": "of the school is an important position ",
+  "viSentence": "Hiệu trưởng của trường học là một vị trí quan trọng ",
+  "correctChoice": "principal",
+  "firstChoice": "driver",
+  "secondChoice": "journalist",
+  "thirdChoice": "singer",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796850464"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200596170"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d72f415292f0ec9bc808"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Principal - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b05e"
+  },
+  "leftOfWord": "The ",
+  "rightOfWord": "of the school is an important position ",
+  "viSentence": "Hiệu trưởng của trường học là một vị trí quan trọng ",
+  "correctChoice": "Principal",
+  "firstChoice": "Driver",
+  "secondChoice": "Journalist",
+  "thirdChoice": "Singer",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200687708"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200687708"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629746e4ec3daf580812a104"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Apple - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c731"
+  },
+  "leftOfWord": "I don't like",
+  "rightOfWord": "",
+  "viSentence": "Tôi không thích táo ",
+  "correctChoice": "Apple",
+  "firstChoice": "Banana",
+  "secondChoice": "Lemon",
+  "thirdChoice": "Peach",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654081252529"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654081252529"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977569ec3daf580812a4e9"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Lemon - FILL_CHAR",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d5fb"
+  },
+  "leftOfWord": "I like to drink tea with",
+  "rightOfWord": "",
+  "viSentence": "Tôi thích uống trà với chanh",
+  "correctChoice": "Lemon",
+  "firstChoice": "Peach",
+  "secondChoice": "Strawberry",
+  "thirdChoice": "Apple",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093250608"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093161426"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977956ec3daf580812a68e"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Vegetable - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c428"
+  },
+  "leftOfWord": "I love eating ",
+  "rightOfWord": "",
+  "viSentence": "Tôi thích ăn rau quả",
+  "correctChoice": "Vegetables",
+  "firstChoice": "Onion",
+  "secondChoice": "Potato",
+  "thirdChoice": "Carrots",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094166972"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094166972"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977ae3ec3daf580812a766"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Carrot - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c536"
+  },
+  "leftOfWord": "",
+  "rightOfWord": "is my favourite fruit ",
+  "viSentence": "Cà rốt là loại trái cây yêu thích của tôi ",
+  "correctChoice": "Carrot",
+  "firstChoice": "Onion",
+  "secondChoice": "Potato",
+  "thirdChoice": "Pepper",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094563086"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094563086"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977c14ec3daf580812a83c"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Onion - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba8d"
+  },
+  "leftOfWord": "I don't like - ",
+  "rightOfWord": "",
+  "viSentence": "Tôi không thích hành tây ",
+  "correctChoice": "Onion",
+  "firstChoice": "Potato",
+  "secondChoice": "Pepper",
+  "thirdChoice": "Vegetable",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094868307"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094868307"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977d1dec3daf580812a913"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Potato - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae98"
+  },
+  "leftOfWord": "I don't like - ",
+  "rightOfWord": "",
+  "viSentence": "Tôi không thích khoai tây ",
+  "correctChoice": "Potato",
+  "firstChoice": "Pepper",
+  "secondChoice": "Vegetable",
+  "thirdChoice": "Carrot",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095133481"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095133481"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977e36ec3daf580812aa5d"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Pepper - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c0ac"
+  },
+  "leftOfWord": "I want a little more",
+  "rightOfWord": "",
+  "viSentence": "Tôi muốn thêm một ít tiêu.",
+  "correctChoice": "Pepper",
+  "firstChoice": "Meat",
+  "secondChoice": "Beef",
+  "thirdChoice": "Chicken",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095414137"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095414137"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16e0188e4f1334eb14a98"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Meat _ FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ccdf"
+  },
+  "leftOfWord": "",
+  "rightOfWord": "and potatoes",
+  "viSentence": "Thịt và khoai tây",
+  "correctChoice": "Meat",
+  "firstChoice": "Beef",
+  "secondChoice": "Chicken",
+  "thirdChoice": "Fish",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746625807"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746625807"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fcd77d9f02220765e9fd"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Beef - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2ee"
+  },
+  "leftOfWord": "Tom doesn't like",
+  "rightOfWord": "",
+  "viSentence": "Tom không thích thịt bò",
+  "correctChoice": "Beef",
+  "firstChoice": "Chicken",
+  "secondChoice": "Fish",
+  "thirdChoice": "Egg",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783191645"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783191645"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fe177d9f02220765eae2"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Chicken - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d516"
+  },
+  "leftOfWord": "Do you like",
+  "rightOfWord": "or beef?",
+  "viSentence": "Bạn thích thịt gà hay thịt bò",
+  "correctChoice": "Chicken",
+  "firstChoice": "Fish",
+  "secondChoice": "Egg",
+  "thirdChoice": "Meat",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783511820"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783511820"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fef07d9f02220765ebf9"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Fish - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a649"
+  },
+  "leftOfWord": "A big",
+  "rightOfWord": "",
+  "viSentence": "Một con cá lớn",
+  "correctChoice": "Fish",
+  "firstChoice": "Egg",
+  "secondChoice": "Meat",
+  "thirdChoice": "Beef",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783728316"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783728316"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2000e7d9f02220765ed2b"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Egg - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dd67"
+  },
+  "leftOfWord": "A chicken",
+  "rightOfWord": "",
+  "viSentence": "Một quả trứng gà",
+  "correctChoice": "Egg",
+  "firstChoice": "Meat",
+  "secondChoice": "Beef",
+  "thirdChoice": "Chicken",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784014592"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784014592"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a200d67d9f02220765edb2"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Cook (Verb) - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa6e"
+  },
+  "leftOfWord": "I ",
+  "rightOfWord": "for myself",
+  "viSentence": "Tôi tự nấu ăn",
+  "correctChoice": "Cook",
+  "firstChoice": "Boil",
+  "secondChoice": "Dry",
+  "thirdChoice": "Prepare",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784214826"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784214826"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a202307d9f02220765eeb3"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Boil - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b030"
+  },
+  "leftOfWord": "My father ",
+  "rightOfWord": " a potato",
+  "viSentence": "Bố tôi luộc một củ khoai tây",
+  "correctChoice": "Boils",
+  "firstChoice": "Dries",
+  "secondChoice": "Prepares",
+  "thirdChoice": "Heats",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784560410"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784560410"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203647d9f02220765ef95"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Dry - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ce45"
+  },
+  "leftOfWord": "I ",
+  "rightOfWord": "carrots",
+  "viSentence": "Tôi sấy cà rốt",
+  "correctChoice": "Dry",
+  "firstChoice": "Prepare",
+  "secondChoice": "Heat",
+  "thirdChoice": "Heat",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784868687"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784868687"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20aa97d9f02220765f122"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Prepare - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa9c"
+  },
+  "leftOfWord": "I ",
+  "rightOfWord": " the food",
+  "viSentence": "Tôi chuẩn bị thức ăn",
+  "correctChoice": "Prepare",
+  "firstChoice": "Heat",
+  "secondChoice": "Cook",
+  "thirdChoice": "Boil",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786729025"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786729025"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20cbb7d9f02220765f350"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Bake - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d945"
+  },
+  "leftOfWord": "",
+  "rightOfWord": "an onion",
+  "viSentence": "Nướng một củ hành tây",
+  "correctChoice": "Bake",
+  "firstChoice": "Fry",
+  "secondChoice": "Chop",
+  "thirdChoice": "Slice",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787259691"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787259691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f447d9f02220765f50d"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Fry - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b9b3"
+  },
+  "leftOfWord": "I ",
+  "rightOfWord": "an egg",
+  "viSentence": "Tôi chiên một quả trứng",
+  "correctChoice": "Fry",
+  "firstChoice": "Chop",
+  "secondChoice": "Slice",
+  "thirdChoice": "Mix",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787908872"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787908872"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2101b7d9f02220765f5dd"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Chop - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6df"
+  },
+  "leftOfWord": "",
+  "rightOfWord": "an onion",
+  "viSentence": "Cắt một củ hành tây",
+  "correctChoice": "Chop",
+  "firstChoice": "Slice",
+  "secondChoice": "Mix",
+  "thirdChoice": "Bake",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788123995"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788123995"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a217c34a59a53340fa64e8"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Slice - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa4a"
+  },
+  "leftOfWord": "",
+  "rightOfWord": "a lemon",
+  "viSentence": "Cắt lát một quả chanh",
+  "correctChoice": "Slice",
+  "firstChoice": "Mix",
+  "secondChoice": "Bake",
+  "thirdChoice": "Fry",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790083453"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790083453"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218a44a59a53340fa65b7"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Mix - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b973"
+  },
+  "leftOfWord": "I",
+  "rightOfWord": "the vegetables",
+  "viSentence": "Tôi trộn các loại rau củ",
+  "correctChoice": "Mix",
+  "firstChoice": "Bake",
+  "secondChoice": "Fry",
+  "thirdChoice": "Chop",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790308937"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790308937"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2217ab2058921d3746cf6"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Tall - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b04b"
+  },
+  "leftOfWord": "He is",
+  "rightOfWord": "",
+  "viSentence": "Anh ấy cao",
+  "correctChoice": "Tall",
+  "firstChoice": "Short",
+  "secondChoice": "Height",
+  "thirdChoice": "Thin",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792570538"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792570538"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22265b2058921d3746ded"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Short - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "leftOfWord": "John is",
+  "rightOfWord": "",
+  "viSentence": "John thấp",
+  "correctChoice": "Short",
+  "firstChoice": "Height",
+  "secondChoice": "Thin",
+  "thirdChoice": "Weight",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792805269"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792805269"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22312b2058921d3746e98"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Height - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bffa"
+  },
+  "leftOfWord": "What is your",
+  "rightOfWord": "?",
+  "viSentence": "Chiều cao của bạn là bao nhiêu?",
+  "correctChoice": "Height",
+  "firstChoice": "Thin",
+  "secondChoice": "Weight",
+  "thirdChoice": "Tall",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792978287"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792978287"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a223bfb2058921d3746f67"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Thin - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b410"
+  },
+  "leftOfWord": "She looks",
+  "rightOfWord": "",
+  "viSentence": "Cô ấy trông gầy",
+  "correctChoice": "Thin",
+  "firstChoice": "Weight",
+  "secondChoice": "Tall",
+  "thirdChoice": "Short",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793151635"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793151635"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2246bb2058921d3747038"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Weight - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b217"
+  },
+  "leftOfWord": "What is your",
+  "rightOfWord": "?",
+  "viSentence": "Cân nặng của bạn là bao nhiêu?",
+  "correctChoice": "Weight",
+  "firstChoice": "Tall",
+  "secondChoice": "Short",
+  "thirdChoice": "Height",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793323095"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793323095"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22be9b2058921d3747148"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Strong - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ddd1"
+  },
+  "leftOfWord": "She is",
+  "rightOfWord": "",
+  "viSentence": "Cô ấy mạnh mẽ",
+  "correctChoice": "Strong",
+  "firstChoice": "Heavy",
+  "secondChoice": "Light",
+  "thirdChoice": "Slight",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795241536"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795241536"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22c98b2058921d3747217"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Heavy - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b4e6"
+  },
+  "leftOfWord": "How",
+  "rightOfWord": " are you?",
+  "viSentence": "Bạn nặng bao nhiêu?",
+  "correctChoice": "Heavy",
+  "firstChoice": "Light",
+  "secondChoice": "Slight",
+  "thirdChoice": "Slight",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795567642"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795416112"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a230a0b2058921d37473d7"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Light - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ab14"
+  },
+  "leftOfWord": "As light as a",
+  "rightOfWord": "",
+  "viSentence": "Nhẹ tựa lông hồng",
+  "correctChoice": "Light",
+  "firstChoice": "Slight",
+  "secondChoice": "Heavy",
+  "thirdChoice": "Strong",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796590335"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796448257"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a231a8b2058921d374751c"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Slight - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cf3c"
+  },
+  "leftOfWord": "a",
+  "rightOfWord": "woman",
+  "viSentence": "một phụ nữ mảnh dẻ",
+  "correctChoice": "Slight",
+  "firstChoice": "Short",
+  "secondChoice": "Strong",
+  "thirdChoice": "Heavy",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796712736"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796712736"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44a4363fedf08b57cd42d"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Appearance - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c031"
+  },
+  "leftOfWord": "Describe your",
+  "rightOfWord": "",
+  "viSentence": "Miêu tả ngoại hình của bạn",
+  "correctChoice": "Appearance",
+  "firstChoice": "Beautiful",
+  "secondChoice": "Pretty",
+  "thirdChoice": "Gorgeous",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934083699"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934083699"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44bc463fedf08b57cd524"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Beautiful - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a72f"
+  },
+  "leftOfWord": "a",
+  "rightOfWord": "girl",
+  "viSentence": "một cô gái đẹp",
+  "correctChoice": "Beautiful",
+  "firstChoice": "Appearance",
+  "secondChoice": "Gorgeous",
+  "thirdChoice": "Sexy",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934468130"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934468130"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a457c3a99c39206b6330c9"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "pretty - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b965"
+  },
+  "leftOfWord": "a",
+  "rightOfWord": "child",
+  "viSentence": "một đứa trẻ xinh xắn",
+  "correctChoice": "Pretty",
+  "firstChoice": "Gorgeous",
+  "secondChoice": "Sexy",
+  "thirdChoice": "Appearance",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937539787"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937539787"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a459e7a99c39206b633216"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Gorgeous - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4db35"
+  },
+  "leftOfWord": "You look ",
+  "rightOfWord": "",
+  "viSentence": "Bạn trông thật lộng lẫy",
+  "correctChoice": "Gorgeous",
+  "firstChoice": "Sexy",
+  "secondChoice": "Appearance",
+  "thirdChoice": "Beautiful",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938087276"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938087276"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45b49a99c39206b63332e"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Sexy - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4df00"
+  },
+  "leftOfWord": "a",
+  "rightOfWord": "singer",
+  "viSentence": "một ca sĩ gợi cảm",
+  "correctChoice": "Sexy",
+  "firstChoice": "Appearance",
+  "secondChoice": "Beautiful",
+  "thirdChoice": "Pretty",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938441400"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938441400"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45c4ea99c39206b633416"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Ugly - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c6be"
+  },
+  "leftOfWord": "He is not ",
+  "rightOfWord": "",
+  "viSentence": "Anh ấy không xấu",
+  "correctChoice": "Ugly",
+  "firstChoice": "Attractive",
+  "secondChoice": "Cute",
+  "thirdChoice": "Old",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938702731"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938702731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45d2fa99c39206b6334fe"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Attractive - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6dd"
+  },
+  "leftOfWord": "A/An",
+  "rightOfWord": "appearance",
+  "viSentence": "một ngoại hình hấp dẫn",
+  "correctChoice": "Attractive",
+  "firstChoice": "Cute",
+  "secondChoice": "Old",
+  "thirdChoice": "Young",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938927778"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938927778"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45e1ca99c39206b6335e6"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Cute - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da19"
+  },
+  "leftOfWord": "a",
+  "rightOfWord": "baby",
+  "viSentence": "một em bé dễ thương",
+  "correctChoice": "Cute",
+  "firstChoice": "Old",
+  "secondChoice": "Young",
+  "thirdChoice": "Ugly",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939164634"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939164634"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f4aa99c39206b633731"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Old - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cba0"
+  },
+  "leftOfWord": "He looks",
+  "rightOfWord": "",
+  "viSentence": "Anh ấy trông già",
+  "correctChoice": "Old",
+  "firstChoice": "Young",
+  "secondChoice": "Ugly",
+  "thirdChoice": "Attractive",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939466691"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939466691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46033a99c39206b633850"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Young - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b30f"
+  },
+  "leftOfWord": "She is very ",
+  "rightOfWord": "",
+  "viSentence": "Cô ấy rất trẻ",
+  "correctChoice": "Young",
+  "firstChoice": "Ugly",
+  "secondChoice": "Attractive",
+  "thirdChoice": "Cute",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939699739"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939699739"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46128a99c39206b633938"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Hair - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cd2a"
+  },
+  "leftOfWord": "I dye my ",
+  "rightOfWord": "",
+  "viSentence": "Tôi nhuộm tóc của mình",
+  "correctChoice": "Hair",
+  "firstChoice": "Long",
+  "secondChoice": "Short",
+  "thirdChoice": "Curly",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939944670"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939944670"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46412a99c39206b633a28"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Long - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a0"
+  },
+  "leftOfWord": "She has",
+  "rightOfWord": "hair",
+  "viSentence": "Cô ấy có mái tóc dài",
+  "correctChoice": "Long",
+  "firstChoice": "Short",
+  "secondChoice": "Curly",
+  "thirdChoice": "Straigth",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940690682"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940690682"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4653da99c39206b633b10"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Short - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "leftOfWord": "He has",
+  "rightOfWord": "hair",
+  "viSentence": "Anh ấy có mái tóc ngắn",
+  "correctChoice": "Short",
+  "firstChoice": "Curly",
+  "secondChoice": "Straight",
+  "thirdChoice": "Hair",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940989190"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940989190"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46652a99c39206b633bf8"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Curly - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d01b"
+  },
+  "leftOfWord": "His hair is ",
+  "rightOfWord": "",
+  "viSentence": "Tóc anh ấy xoăn",
+  "correctChoice": "Curly",
+  "firstChoice": "Short",
+  "secondChoice": "Straight",
+  "thirdChoice": "Long",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941266715"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941266715"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46725a99c39206b633ce2"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Straight - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b294"
+  },
+  "leftOfWord": "Her hair is ",
+  "rightOfWord": "",
+  "viSentence": "Tóc cô ấy thẳng",
+  "correctChoice": "Straight",
+  "firstChoice": "Curly",
+  "secondChoice": "Short",
+  "thirdChoice": "Long",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941477834"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941477834"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a467eca99c39206b633dca"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Head - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a387"
+  },
+  "leftOfWord": "Nod your ",
+  "rightOfWord": "",
+  "viSentence": "Gật đầu",
+  "correctChoice": "Head",
+  "firstChoice": "Face",
+  "secondChoice": "Eye",
+  "thirdChoice": "Ear",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941676074"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941676074"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a468b7a99c39206b633eb2"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Face - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4afb7"
+  },
+  "leftOfWord": "A",
+  "rightOfWord": "pretty",
+  "viSentence": "Một khuôn mặt xinh xắn",
+  "correctChoice": "Face",
+  "firstChoice": "Eye",
+  "secondChoice": "Ear",
+  "thirdChoice": "Head",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941879684"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941879684"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4695aa99c39206b633f9a"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Eye - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4be75"
+  },
+  "leftOfWord": "Something is in my ",
+  "rightOfWord": "",
+  "viSentence": "có gì đó trong mắt tôi",
+  "correctChoice": "Eye",
+  "firstChoice": "Ear",
+  "secondChoice": "Head",
+  "thirdChoice": "Face",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942042459"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942042459"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46a0ea99c39206b634082"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Ear - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a360"
+  },
+  "leftOfWord": "My left ",
+  "rightOfWord": "",
+  "viSentence": "Tai trái của tôi",
+  "correctChoice": "Ear",
+  "firstChoice": "Nose",
+  "secondChoice": "Head",
+  "thirdChoice": "Eye",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942222948"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942222948"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46af4a99c39206b63416a"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Nose - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b415"
+  },
+  "leftOfWord": "He has a long ",
+  "rightOfWord": "",
+  "viSentence": "Anh ấy có một chiếc mũi dài",
+  "correctChoice": "Nose",
+  "firstChoice": "Head",
+  "secondChoice": "Face",
+  "thirdChoice": "Eye",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942452900"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942452900"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46bcaa99c39206b634252"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Cheek - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d575"
+  },
+  "leftOfWord": "touch your",
+  "rightOfWord": "please",
+  "viSentence": "Vui lòng chạm vào má của bạn",
+  "correctChoice": "Cheek",
+  "firstChoice": "Mouth",
+  "secondChoice": "Lip",
+  "thirdChoice": "Tongue",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942817264"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942666327"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46ceea99c39206b6343bb"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Mouth - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba6d"
+  },
+  "leftOfWord": "open your",
+  "rightOfWord": "please",
+  "viSentence": "Vui lòng há miệng ra",
+  "correctChoice": "Mouth",
+  "firstChoice": "Lip",
+  "secondChoice": "Tongue",
+  "thirdChoice": "Cheek",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942958142"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942958142"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46daba99c39206b6344a3"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Lip - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a52b"
+  },
+  "leftOfWord": "I have thin ",
+  "rightOfWord": "",
+  "viSentence": "Tôi có đôi môi mỏng",
+  "correctChoice": "Lips",
+  "firstChoice": "Tongue",
+  "secondChoice": "Mouth",
+  "thirdChoice": "Cheek",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943147100"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943147100"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46e83a99c39206b6345b0"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tongue - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a4c6"
+  },
+  "leftOfWord": "My",
+  "rightOfWord": "hurts",
+  "viSentence": "Lưỡi của tôi đau",
+  "correctChoice": "Tongue",
+  "firstChoice": "Lip",
+  "secondChoice": "Cheek",
+  "thirdChoice": "Mouth",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943449870"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943363273"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46fafa99c39206b63473f"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tooth - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af1f"
+  },
+  "leftOfWord": "My first ",
+  "rightOfWord": "",
+  "viSentence": "Chiếc răng đầu tiên của tôi",
+  "correctChoice": "Tooth",
+  "firstChoice": "Cheek",
+  "secondChoice": "Lip",
+  "thirdChoice": "Tongue",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943663196"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943663196"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dc6b01bbad00e735b6f4"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Neck - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b837"
+  },
+  "leftOfWord": "He has a short",
+  "rightOfWord": "",
+  "viSentence": "Anh ấy có một cái cổ ngắn",
+  "correctChoice": "Neck",
+  "firstChoice": "Shoulder",
+  "secondChoice": "Arm",
+  "thirdChoice": "Elbow",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104322455"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102571768"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dd7901bbad00e735b834"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Shoulder - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a5"
+  },
+  "leftOfWord": "I touch her ",
+  "rightOfWord": "",
+  "viSentence": "Tôi chạm vào vai của cô ấy",
+  "correctChoice": "Shoulder",
+  "firstChoice": "Arm",
+  "secondChoice": "Elbow",
+  "thirdChoice": "Wrist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104363006"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102841094"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e1f501bbad00e735b91c"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Arm - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac0c"
+  },
+  "leftOfWord": "I touch his",
+  "rightOfWord": "",
+  "viSentence": "Tôi chạm vào cánh tay của anh ấy",
+  "correctChoice": "Arm",
+  "firstChoice": "Elbow",
+  "secondChoice": "Wrist",
+  "thirdChoice": "Neck",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104400874"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655103989285"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e2d601bbad00e735ba04"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Elbow - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b91e"
+  },
+  "leftOfWord": "",
+  "rightOfWord": "is a part of arm",
+  "viSentence": "Khuỷu tay là một phần của cánh tay",
+  "correctChoice": "Elbow",
+  "firstChoice": "Wrist",
+  "secondChoice": "Neck",
+  "thirdChoice": "Shoulder",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104214731"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104214731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e44e01bbad00e735be86"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Wrist - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad3f"
+  },
+  "leftOfWord": "Tom hurts my",
+  "rightOfWord": "",
+  "viSentence": "Tom làm đau cổ tay của tôi",
+  "correctChoice": "Wrist",
+  "firstChoice": "Neck",
+  "secondChoice": "Shoulder",
+  "thirdChoice": "Arm",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104590944"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104590944"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e53001bbad00e735bf72"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Hand - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4baa6"
+  },
+  "leftOfWord": "John has a strong",
+  "rightOfWord": "",
+  "viSentence": "John có một bàn tay mạnh mẽ",
+  "correctChoice": "Hand",
+  "firstChoice": "Back",
+  "secondChoice": "Waist",
+  "thirdChoice": "Chest",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104816104"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104816104"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e5e101bbad00e735c05e"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Finger - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a835"
+  },
+  "leftOfWord": "with just one",
+  "rightOfWord": "",
+  "viSentence": "chỉ với một ngón tay",
+  "correctChoice": "Finger",
+  "firstChoice": "Back",
+  "secondChoice": "Chest",
+  "thirdChoice": "Waist",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104993832"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104993832"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e6d901bbad00e735c171"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Chest - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c25c"
+  },
+  "leftOfWord": "His chest",
+  "rightOfWord": "",
+  "viSentence": "Ngực của anh ấy đau",
+  "correctChoice": "Chest",
+  "firstChoice": "Waist",
+  "secondChoice": "Finger",
+  "thirdChoice": "Back",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105241012"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105241012"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e7a601bbad00e735c27e"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Waist - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad18"
+  },
+  "leftOfWord": "Put an arm around the ",
+  "rightOfWord": "",
+  "viSentence": "Vòng tay qua eo",
+  "correctChoice": "waist",
+  "firstChoice": "finger",
+  "secondChoice": "back",
+  "thirdChoice": "hand",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105446539"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105446539"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e86501bbad00e735c394"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Hip - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae45"
+  },
+  "leftOfWord": "Put hand on the",
+  "rightOfWord": "",
+  "viSentence": "Đặt tay lên hông",
+  "correctChoice": "hip",
+  "firstChoice": "leg",
+  "secondChoice": "knee",
+  "thirdChoice": "foot",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105734860"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105637954"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e93401bbad00e735c4ab"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Leg - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a9ab"
+  },
+  "leftOfWord": "My ",
+  "rightOfWord": "are long",
+  "viSentence": "Chân của tôi dài",
+  "correctChoice": "legs",
+  "firstChoice": "knees",
+  "secondChoice": "feet",
+  "thirdChoice": "heels",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105928610"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105844163"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ea0801bbad00e735c5e5"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Knee - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac83"
+  },
+  "leftOfWord": "I have a ",
+  "rightOfWord": "injury",
+  "viSentence": "Tôi bị chấn thương đầu gối",
+  "correctChoice": "knee",
+  "firstChoice": "foot",
+  "secondChoice": "heel",
+  "thirdChoice": "hip",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106056518"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106056518"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eacf01bbad00e735c6cd"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Foot - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bd9c"
+  },
+  "leftOfWord": "a baby's pretty ",
+  "rightOfWord": "",
+  "viSentence": "một bàn chân xinh xắn của em bé",
+  "correctChoice": "foot",
+  "firstChoice": "heel",
+  "secondChoice": "hip",
+  "thirdChoice": "leg",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106255900"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106255900"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ebd101bbad00e735c7c3"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Heel - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af60"
+  },
+  "leftOfWord": "She turns on her ",
+  "rightOfWord": "",
+  "viSentence": "Cô ấy quay gót chân",
+  "correctChoice": "heel",
+  "firstChoice": "hip",
+  "secondChoice": "leg",
+  "thirdChoice": "knee",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106513878"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106513878"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ecfb01bbad00e735c93e"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Clothes - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b0ab"
+  },
+  "leftOfWord": "I buy new",
+  "rightOfWord": "",
+  "viSentence": "Tôi mua quần áo mới",
+  "correctChoice": "clothes",
+  "firstChoice": "shirt",
+  "secondChoice": "skirt",
+  "thirdChoice": "pants",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106811298"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106811298"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eda201bbad00e735ca56"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Shirt - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d6c5"
+  },
+  "leftOfWord": "I wear a ",
+  "rightOfWord": "",
+  "viSentence": "Tôi mặc một chiếc áo sơ mi",
+  "correctChoice": "shirt",
+  "firstChoice": "skirt",
+  "secondChoice": "pants",
+  "thirdChoice": "dress",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107070289"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106978582"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ee8001bbad00e735cbbc"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Skirt - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8f7"
+  },
+  "leftOfWord": "She has two ",
+  "rightOfWord": "",
+  "viSentence": "Cô ấy có hai chiếc váy",
+  "correctChoice": "skirts",
+  "firstChoice": "pants",
+  "secondChoice": "dress",
+  "thirdChoice": "clothes",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107200204"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107200204"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef1201bbad00e735cc77"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Pants - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d39d"
+  },
+  "leftOfWord": "He wears ",
+  "rightOfWord": "",
+  "viSentence": "Anh ấy mặc quần dài",
+  "correctChoice": "pants",
+  "firstChoice": "dress",
+  "secondChoice": "clothes",
+  "thirdChoice": "shirt",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107346477"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107346477"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6efb901bbad00e735cd5f"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Dress - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b951"
+  },
+  "leftOfWord": "I always wear -",
+  "rightOfWord": "",
+  "viSentence": "Tôi luôn mặc đầm",
+  "correctChoice": "dress",
+  "firstChoice": "clothes",
+  "secondChoice": "shirt",
+  "thirdChoice": "skirt",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107513203"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107513203"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f1d901bbad00e735ce74"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Coat - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c2e6"
+  },
+  "leftOfWord": "A man in a long -",
+  "rightOfWord": "",
+  "viSentence": "Người đàn ông mặc áo khoác dài",
+  "correctChoice": "coat",
+  "firstChoice": "glove",
+  "secondChoice": "hat",
+  "thirdChoice": "belt",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108057088"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108057088"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f29501bbad00e735cf5d"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Glove - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2de"
+  },
+  "leftOfWord": "A pair of ",
+  "rightOfWord": "",
+  "viSentence": "Một đôi găng tay",
+  "correctChoice": "gloves",
+  "firstChoice": "hats",
+  "secondChoice": "belts",
+  "thirdChoice": "shoes",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108245711"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108245711"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f3a701bbad00e735d0a3"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Hat - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfb9"
+  },
+  "leftOfWord": "Woman with a",
+  "rightOfWord": "",
+  "viSentence": "Người phụ nữ với chiếc mũ",
+  "correctChoice": "hat",
+  "firstChoice": "belt",
+  "secondChoice": "shoe",
+  "thirdChoice": "coat",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108519278"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108519278"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f48e01bbad00e735d18b"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Belt - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a678"
+  },
+  "leftOfWord": "A",
+  "rightOfWord": "around the waist",
+  "viSentence": "Một chiếc thắt lưng quanh eo",
+  "correctChoice": "belt",
+  "firstChoice": "shoe",
+  "secondChoice": "coat",
+  "thirdChoice": "glove",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108750761"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108750761"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f54701bbad00e735d277"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Shoe - FILL_WORD",
+  "type": "FILL_WORD",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c81a"
+  },
+  "leftOfWord": "What's your ",
+  "rightOfWord": "size?",
+  "viSentence": "Cỡ giày của bạn là bao nhiêu?",
+  "correctChoice": "shoe",
+  "firstChoice": "coat",
+  "secondChoice": "glove",
+  "thirdChoice": "hat",
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655109014288"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108935993"
+    }
+  }
+}]

@@ -1,0 +1,42 @@
+<h1>{{title}}</h1>
+<a href="{{webUrl}}">Home</a>
+<h3>Quiz Type APIs</h3>
+<h3>Create a quiz type</h3>
+<pre>
+  POST
+  {{webUrl}}/quiz/type
+  example body:
+  {
+    "name": "TRANSLATE_AND_ARRANGE"
+  }
+
+  *note: only name in:
+    TRANSLATE_AND_ARRANGE: Dịch & sắp xếp câu
+    FILL_IN_BLANKS_SENTENCE: Điền từ còn thiếu
+    FILL_IN_BLANKS_CHAR: Điền ký tự còn thiếu
+    LISTEN_AND_PICK: Nghe & chọn từ
+    READ_AND_PICK: Chọn từ tương ứng nghĩa
+    PICTURE_AND_PICK: Chọn hình tương ứng nghĩa
+  will be accepted
+
+</pre>
+<h3>Read all quiz types</h3>
+<pre>
+  GET
+  {{webUrl}}/quiz/type/all
+</pre>
+<h3>Read a quiz type</h3>
+<pre>
+  GET
+  {{webUrl}}/quiz/type/:id
+</pre>
+<h3>Delete a quiz type</h3>
+<pre>
+  GET
+  {{webUrl}}/quiz/type/delete/:id
+</pre>
+<h3>Delete all quiz types</h3>
+<pre>
+  GET
+  {{webUrl}}/quiz/type/delete/all
+</pre>

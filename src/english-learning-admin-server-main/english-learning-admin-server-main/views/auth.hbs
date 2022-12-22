@@ -1,0 +1,32 @@
+<a href="{{webUrl}}">Home</a>
+<h3>Auth APIs</h3>
+<pre>
+POST to: {{webUrl}}/auth/login
+
+with body:
+{
+  "username": "system_admin",
+  "password": "system_admin"
+}
+
+
+response:
+{
+  "user": {
+    "isLock": false,
+    "_id": "62599d75948a8297bd70822c",
+    "username": "system_admin",
+    "password": "system_admin",
+    "userType": "SYSTEM_ADMIN",
+    "name": "Võ Thế Minh",
+    "isDeleted": false,
+    "updated_at": "2022-04-16T18:45:44.732Z",
+    "created_at": "2022-04-15T16:29:41.352Z"
+  },
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MjU5OWQ3NTk0OGE4Mjk3YmQ3MDgyMmMiLCJ1c2VybmFtZSI6InN5c3RlbV9hZG1pbiIsInVzZXJUeXBlIjoiU1lTVEVNX0FETUlOIiwiaWF0IjoxNjUwMTg0NDcyLCJleHAiOjE2NTAyMjA0NzJ9.6RbFFjUR_M4_VKztSxqNO4FOjXHBZQiBiXMRYNKpU_4"
+}
+
+then, using the `access_token` in the header
+
+
+</pre>

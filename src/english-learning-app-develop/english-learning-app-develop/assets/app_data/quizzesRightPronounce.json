@@ -1,0 +1,2419 @@
+[{
+  "_id": {
+    "$oid": "628996a29606ac423b9da3c0"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Lawyer - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cda7"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4bbd5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184162390"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184162390"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628999a59606ac423b9da4ba"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Teacher - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da00"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b24a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653184933179"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653184933179"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899dd99606ac423b9da694"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Cook - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8a3"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a771"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186009962"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186009962"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62899f9e9606ac423b9da764"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Farmer - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8f9"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4abdc"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186462948"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186462948"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289a1999606ac423b9da828"
+  },
+  "lessonId": {
+    "$oid": "62890d5f2fdf6a78829c9bdd"
+  },
+  "name": "Director - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b28b"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b929"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653186969621"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653186969621"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289abfd415292f0ec9bc115"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Doctor - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfcb"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a8ad"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189629037"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189629037"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289ad55415292f0ec9bc207"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Engineer - RIGHT_PRONOUCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c31b"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a9dd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653189973459"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653189973459"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d06c415292f0ec9bc333"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Pilot - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b8fc"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4aa0f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653198956219"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653198956219"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d1df415292f0ec9bc44e"
+  },
+  "lessonId": {
+    "$oid": "62890dd22fdf6a78829c9bed"
+  },
+  "name": "Nurse - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b085"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b929"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199327785"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199327785"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d2ef415292f0ec9bc500"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Driver - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dce0"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a71e"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199599634"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199599634"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d404415292f0ec9bc5d5"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Journalist - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b3c9"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a993"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653199876551"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653199876551"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d5b1415292f0ec9bc71d"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Scientist - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cee5"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b929"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200305345"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200305345"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6289d772415292f0ec9bc858"
+  },
+  "lessonId": {
+    "$oid": "6289a54f9606ac423b9da89a"
+  },
+  "name": "Principal - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b05e"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4bbd5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1653200754087"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1653200754087"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62974b86ec3daf580812a48c"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Apple - RIGHT_PRONOUCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c731"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b261"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654082438113"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654082438113"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6297763bec3daf580812a632"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Lemon - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d5fb"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b1a2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654093371814"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654093371814"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "629779c0ec3daf580812a709"
+  },
+  "lessonId": {
+    "$oid": "6289aa0f415292f0ec9bbfc3"
+  },
+  "name": "Vegetable - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c428"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b1ae"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094272725"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094272725"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977b82ec3daf580812a7e6"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Carrot - RIGHT_PROUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c536"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4bdbf"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094722750"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094722750"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977c5dec3daf580812a895"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Onion - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba8d"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a42a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654094941792"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654094941792"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977d57ec3daf580812a96a"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Potato - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae98"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b614"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095191429"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095191429"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62977e98ec3daf580812aab5"
+  },
+  "lessonId": {
+    "$oid": "6289aa27415292f0ec9bbfce"
+  },
+  "name": "Pepper - RIGHT_PRONOUCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c0ac"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4c551"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654095512434"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654095512434"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a16e5788e4f1334eb14af1"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Meat _ RIGHT_PROUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ccdf"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4ac90"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654746711200"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654746711200"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fd1e7d9f02220765ea56"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Beef - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2ee"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4bd02"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783262211"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783262211"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1fe6e7d9f02220765eb5c"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Chicken -  RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d516"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4cc04"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783598452"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783598452"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ff3f7d9f02220765ec81"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Fish - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a649"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a602"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783807946"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783807946"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a1ffe17d9f02220765ed02"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Egg - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4dd67"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4abd2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654783969389"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654783969389"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a201637d9f02220765ee34"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Cook (Verb) - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa6e"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4ba06"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784355583"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784355583"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2028e7d9f02220765ef12"
+  },
+  "lessonId": {
+    "$oid": "6289aa5d415292f0ec9bbfd9"
+  },
+  "name": "Boil - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b030"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4ac1c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784698982"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784654199"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a203d77d9f02220765efed"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Dry - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ce45"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4ab0b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654784983781"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654784983781"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20acf7d9f02220765f172"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Prepare - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa9c"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a5c7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654786767759"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654786767759"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20c237d9f02220765f2cd"
+  },
+  "lessonId": {
+    "$oid": "6289aa69415292f0ec9bbfe4"
+  },
+  "name": "Heat - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bc21"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b44c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787107543"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787107543"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20ce97d9f02220765f3a0"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Bake - RIGHT_PROUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d945"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a37c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787305276"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787305276"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a20f907d9f02220765f585"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Fry - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b9b3"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a37c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654787984586"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654787984586"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a210647d9f02220765f655"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Chop -  RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6df"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4badf"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654788222131"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654788196383"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218044a59a53340fa6560"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Slice - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4aa4a"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4ace6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790148741"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790148741"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a218e04a59a53340fa662f"
+  },
+  "lessonId": {
+    "$oid": "6289aa7c415292f0ec9bbfef"
+  },
+  "name": "Mix - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b973"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b19b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654790368630"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654790368630"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a221c0b2058921d3746d6e"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Tall - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b04b"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a41d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792640235"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792640235"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2229ab2058921d3746e3d"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Short - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a73b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654792858536"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654792858536"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a2234ab2058921d3746f10"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Height - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bffa"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a85d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793034540"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793034540"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a223fcb2058921d3746fe1"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Thin - RIGHT_PRONOUCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b410"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4aa62"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793212653"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793212653"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a224c2b2058921d37470b1"
+  },
+  "lessonId": {
+    "$oid": "62a21e61b2058921d3746c19"
+  },
+  "name": "Weight - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b217"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a436"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654793410238"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654793410238"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22c2cb2058921d37471c0"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Strong - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ddd1"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a53a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795308315"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795308315"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a22d1fb2058921d374728f"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Heavy - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b4e6"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b489"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654795551857"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654795551857"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a230f7b2058921d374745e"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Light - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ab14"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a540"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796535004"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796535004"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a231f4b2058921d37475a3"
+  },
+  "lessonId": {
+    "$oid": "62a21e72b2058921d3746c24"
+  },
+  "name": "Slight - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cf3c"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4ace6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654796788614"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654796788614"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44b3d63fedf08b57cd4c3"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Appearance - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c031"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4cc94"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934333869"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934333869"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a44c0a63fedf08b57cd5ab"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Beautiful - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a72f"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4cc26"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654934538590"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654934538590"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4593aa99c39206b6331b1"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "pretty - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b965"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b965"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654937914675"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654937914675"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45a7ca99c39206b6332ad"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Gorgeous - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4db35"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4db35"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938236092"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938236092"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45baaa99c39206b6333b5"
+  },
+  "lessonId": {
+    "$oid": "62a21e88b2058921d3746c3a"
+  },
+  "name": "Sexy - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4df00"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4df00"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938538070"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938538070"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45ca0a99c39206b63349d"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Ugly - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c6be"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4c6be"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654938784459"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654938784459"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45d91a99c39206b633585"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Attractive - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b6dd"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b6dd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939025581"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939025581"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45e8fa99c39206b63366e"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Cute - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4da19"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4da19"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939279357"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939279357"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a45f95a99c39206b6337b8"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Old - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cba0"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4cba0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939541611"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939541611"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46085a99c39206b6338d7"
+  },
+  "lessonId": {
+    "$oid": "62a22077b2058921d3746c51"
+  },
+  "name": "Young - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b30f"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b30f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654939781572"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654939781572"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46173a99c39206b6339bf"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Hair - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cd2a"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4cd2a"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940019225"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940019225"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46458a99c39206b633aaf"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Long - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a0"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a6a0"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654940760866"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654940760866"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a465c1a99c39206b633b97"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Short - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a3f6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941121663"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941121663"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a466a7a99c39206b633c81"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Curly - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d01b"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4d01b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941351804"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941351804"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a4676fa99c39206b633d69"
+  },
+  "lessonId": {
+    "$oid": "62a22093b2058921d3746c5c"
+  },
+  "name": "Straight - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b294"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b294"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941551043"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941551043"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46828a99c39206b633e51"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Head - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a387"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a387"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941736221"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941736221"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a468eca99c39206b633f39"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Face - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4afb7"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4afb7"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654941932389"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654941932389"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46995a99c39206b634021"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Eye - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4be75"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4be75"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942101765"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942101765"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46a54a99c39206b634109"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Ear - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a360"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a360"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942292397"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942292397"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46b3ca99c39206b6341f1"
+  },
+  "lessonId": {
+    "$oid": "62a220b5b2058921d3746c6c"
+  },
+  "name": "Nose - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b415"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b415"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942524805"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942524805"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46c0ca99c39206b6342d9"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Cheek - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d575"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4d575"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654942732385"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654942732385"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46d31a99c39206b634442"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Mouth - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ba6d"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4ba6d"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943025758"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943025758"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46e03a99c39206b63454f"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Lip - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a52b"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a52b"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943235300"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943235300"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46f37a99c39206b6346de"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tongue - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a4c6"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a4c6"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943543079"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943543079"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a46feaa99c39206b6347c6"
+  },
+  "lessonId": {
+    "$oid": "62a220c1b2058921d3746c77"
+  },
+  "name": "Tooth - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af1f"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4af1f"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1654943722940"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1654943722940"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6dce601bbad00e735b784"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Neck - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b837"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a505"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104329445"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102694641"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ddbb01bbad00e735b8bb"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Shoulder - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a6a5"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a3f3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104369243"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655102907075"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e23701bbad00e735b9a3"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Arm - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac0c"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4dbe1"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104404983"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104055256"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e32101bbad00e735ba8b"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Elbow - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b91e"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a361"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104289934"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104289934"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e48601bbad00e735bf0d"
+  },
+  "lessonId": {
+    "$oid": "62a220e0b2058921d3746c8d"
+  },
+  "name": "Wrist - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad3f"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a6ac"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104646081"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104646081"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e57201bbad00e735bff9"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Hand - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4baa6"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a384"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655104882500"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655104882500"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e62401bbad00e735c0e5"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Finger - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a835"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4aafd"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105060550"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105060550"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e71f01bbad00e735c1f8"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Chest - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c25c"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4aa15"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105311707"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105311707"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e7ea01bbad00e735c305"
+  },
+  "lessonId": {
+    "$oid": "62a220ecb2058921d3746c98"
+  },
+  "name": "Waist - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ad18"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a570"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105514461"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105514461"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e8ac01bbad00e735c41b"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Hip - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ae45"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a570"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105708557"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105708557"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6e95601bbad00e735c505"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Leg - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a9ab"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4aaac"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655105878432"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655105878432"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ea2c01bbad00e735c63f"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Knee - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4ac83"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a588"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106092081"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106092081"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6eb1601bbad00e735c754"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Foot - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4bd9c"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4dd24"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106326587"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106326587"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ec0601bbad00e735c850"
+  },
+  "lessonId": {
+    "$oid": "62a220f7b2058921d3746ca3"
+  },
+  "name": "Heel - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4af60"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a38c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106566225"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106566225"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ed0b01bbad00e735c96b"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Clothes - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b0ab"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4ab89"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655106883592"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655106827989"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6edc101bbad00e735cab0"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Shirt - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d6c5"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4d6c5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107009721"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107009721"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ee9401bbad00e735cbe9"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Skirt - RIGHT_PROUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a8f7"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4d6c5"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107220124"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107220124"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6ef3301bbad00e735ccd1"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Pants - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4d39d"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b0af"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107379264"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107379264"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f00501bbad00e735cde6"
+  },
+  "lessonId": {
+    "$oid": "62a6ec7a01bbad00e735c8d5"
+  },
+  "name": "Dress - RIGHT_PROUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b951"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a359"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655107589152"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655107589152"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f22901bbad00e735cefb"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Coat - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c2e6"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a4e3"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108137851"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108137851"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f2b601bbad00e735cfb7"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Glove - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4b2de"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a671"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108330282"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108278975"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f3db01bbad00e735d12a"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Hat - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4cfb9"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4b2a2"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108571184"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108571184"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f4d001bbad00e735d212"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Belt - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4a678"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4abce"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108816728"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108816728"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62a6f58401bbad00e735d2fe"
+  },
+  "lessonId": {
+    "$oid": "62a6ec8301bbad00e735c8e0"
+  },
+  "name": "Shoe - RIGHT_PRONOUNCE",
+  "type": "RIGHT_PRONOUNCE",
+  "wordId": {
+    "$oid": "62527be1c8992faef1a4c81a"
+  },
+  "wordIdOne": {
+    "$oid": "62527be1c8992faef1a4a44c"
+  },
+  "isDeleted": false,
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1655108996161"
+    }
+  },
+  "created_at": {
+    "$date": {
+      "$numberLong": "1655108996161"
+    }
+  }
+}]

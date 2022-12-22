@@ -1,0 +1,109 @@
+<h1>{{title}}</h1>
+<a href="{{webUrl}}">Home</a>
+<h3>Quiz APIs</h3>
+<h3>Create a quiz</h3>
+<pre>
+  *note: quiz always has lesson, name, quiz_type and quiz_details fiedls.
+  *note: quiz_type value only in:
+    TRANSLATE_AND_ARRANGE: Dịch & sắp xếp câu
+    FILL_IN_BLANKS_SENTENCE: Điền từ còn thiếu
+    FILL_IN_BLANKS_CHAR: Điền ký tự còn thiếu
+    LISTEN_AND_PICK: Nghe & chọn từ
+    READ_AND_PICK: Chọn từ tương ứng nghĩa
+    PICTURE_AND_PICK: Chọn hình tương ứng nghĩa
+
+  POST
+  {{webUrl}}/quiz
+
+  quiz_type:
+    TRANSLATE_AND_ARRANGE: Dịch & sắp xếp câu
+    FILL_IN_BLANKS_SENTENCE: Điền từ còn thiếu
+    FILL_IN_BLANKS_CHAR: Điền ký tự còn thiếu
+    LISTEN_AND_PICK: Nghe & chọn từ
+    READ_AND_PICK: Chọn từ tương ứng nghĩa
+    PICTURE_AND_PICK: Chọn hình tương ứng nghĩa
+
+  example body for:
+  TRANSLATE_AND_ARRANGE:
+  {
+      "lesson": "62544d0758a5eae8a4932aa3",  // this is an id, you can use populate to get the details of it
+      "name": "q-001",
+      "quiz_type": "TRANSLATE_AND_ARRANGE",
+      "quiz_details": {
+          "sentence_id": "625bddb814940915952571d3",
+          "fuzzy_phrase": [ "giống","bảo vệ" ]
+      }
+  }
+
+  FILL_IN_BLANKS_SENTENCE
+  {
+    "lesson": "62544d0758a5eae8a4932aa3",
+    "name": "q-002",
+    "quiz_type": "FILL_IN_BLANKS_SENTENCE",
+    "quiz_details": {
+        "sentence_id": "625bddb814940915952571d3",
+        "choices": [ "cook","director", "teacher" ]
+    }
+  }
+
+  FILL_IN_BLANKS_CHAR
+  {
+    "lesson": "62544d0758a5eae8a4932aa3",
+    "name": "q-003",
+    "quiz_type": "FILL_IN_BLANKS_CHAR",
+    "quiz_details": {
+        "word_id": "lawyer",
+        "present": ["l", "y", "r"]
+    }
+  }
+
+  LISTEN_AND_PICK
+  {
+    "lesson": "62544d0758a5eae8a4932aa3",
+    "name": "q-004",
+    "quiz_type": "LISTEN_AND_PICK",
+    "quiz_details": {
+        "word_id": "625bf176591d8afd0b477b9c",    // this is the correct word choice (e.g: lawyer)
+        "choices_word_id": [
+            "625bf176591d8afd0b477b9c"  // this is other choices (e.g: royal)
+        ]
+    }
+  }
+
+  READ_AND_PICK
+  the same with LISTEN_AND_PICK, since we've got the word_id, we can get all information related to it such as audio, picture, etc.
+
+  PICTURE_AND_PICK
+  the same with LISTEN_AND_PICK
+
+</pre>
+<h3>Read all quizzes</h3>
+<pre>
+  GET
+  {{webUrl}}/quiz/all
+</pre>
+<h3>Read a quiz</h3>
+<pre>
+  GET
+  {{webUrl}}/quiz/:id
+</pre>
+<h3>Update quiz</h3>
+<pre>
+  POST
+  {{webUrl}}/quiz/update/:id
+
+  example body:
+  {
+
+  }
+</pre>
+<h3>Delete a quiz</h3>
+<pre>
+  GET
+  {{webUrl}}/quiz/delete/:id
+</pre>
+<h3>Delete all quizzes</h3>
+<pre>
+  GET
+  {{webUrl}}/quiz/delete/all
+</pre>
