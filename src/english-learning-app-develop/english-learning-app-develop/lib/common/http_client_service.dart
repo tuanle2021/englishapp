@@ -209,6 +209,7 @@ class HttpClientService {
             }
           } on DioError catch (ex) {
             LearnEngLog.logger.e(ex);
+
             if (ex.type == DioErrorType.connectTimeout) {
               var error = new Map<String, dynamic>();
               error["error"] = AppLocalizations.of(
@@ -255,6 +256,8 @@ class HttpClientService {
             failure(ex.response?.data);
           }
           LearnEngLog.logger.e(ex.type);
+            LearnEngLog.logger.e(url);
+
           var error = new Map<String, dynamic>();
           error["error"] = AppLocalizations.of(
                   NavigationService.navigatorKey!.currentContext!)

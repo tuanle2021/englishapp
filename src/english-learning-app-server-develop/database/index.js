@@ -11,7 +11,7 @@ class Database {
       process.env.MONGO_DB_NAME_2 +
       process.env.MONGO_DB_OPTIONS;
     const options = {
-      useNewUrlParser: true,
+      useNewUrlParser: false,
       useUnifiedTopology: true
     };
 

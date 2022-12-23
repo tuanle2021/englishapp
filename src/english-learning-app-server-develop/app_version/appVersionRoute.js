@@ -26,7 +26,7 @@ const quizRightProModel = require('../QuizRightPro/quizRightProModel');
 router.get(`/${VERSION}${ROUTES.APP_VERSION.CHECK_APP_VERSION}`, wrap(async (req, res) => {
     const { version} = req.query;
     const firstRecord = await appVersionModel.find()
-    console.log(version)
+    console.log(version,"version vaof day")
     if (firstRecord.length == 0) {
          const newAppVersion = new appVersionModel({appVersion: 0})
          await newAppVersion.save()
@@ -34,6 +34,7 @@ router.get(`/${VERSION}${ROUTES.APP_VERSION.CHECK_APP_VERSION}`, wrap(async (req
          return
     }
     if (version != firstRecord[0].appVersion) {
+    console.log("update data")
        
         const category = await categoryModel.find()
         const lesson = await lessonModel.find()

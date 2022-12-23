@@ -45,7 +45,7 @@ class LevelType {
 }
 
 class AppInfo {
-  static String appVersion = "4";
+  static String appVersion = "0";
   static String versionCheckUpdate = "0";
   static String apiVersion = "v1";
   static Future<void> getAppVersion() async {

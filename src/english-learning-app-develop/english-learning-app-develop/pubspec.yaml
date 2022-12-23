@@ -67,6 +67,7 @@ dependencies:
   async: ^2.8.2
   package_info_plus: ^1.0.6
   firebase_core: ^1.15.0
+  firebase_core_platform_interface: 4.5.1
   swipeable_card_stack: ^0.0.5
   just_audio: ^0.9.20
   flutter_staggered_animations: ^1.0.0
